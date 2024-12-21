@@ -584,3 +584,33 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [21Dec2024 18:08:16.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Running function give:power_chooser]
 [21Dec2024 18:09:26.079] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: oscarbigw lost connection: Disconnected
 [21Dec2024 18:09:26.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw left the game
+[21Dec2024 18:09:31.939] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: oscarbigw[/127.167.240.13:39959] logged in with entity id 18268 at (197.5796550619553, -31.4375, 133.69999998807907)
+[21Dec2024 18:09:31.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw joined the game
+[21Dec2024 18:09:32.044] [Server thread/INFO] [ping-wheel/]: Channel update: oscarbigw -> default
+[21Dec2024 18:09:52.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Set own game mode to Creative Mode]
+[21Dec2024 18:09:55.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Set own game mode to Survival Mode]
+[21Dec2024 18:10:02.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu]]
+[21Dec2024 18:10:05.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 10)]
+[21Dec2024 18:10:06.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 3000)]
+[21Dec2024 18:10:08.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 19999)]
+[21Dec2024 18:10:12.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 10000)]
+[21Dec2024 18:10:17.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 19999)]
+[21Dec2024 18:10:20.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 3000)]
+[21Dec2024 18:10:22.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 11000)]
+[21Dec2024 18:11:37.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 10)]
+[21Dec2024 18:11:38.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 10000)]
+[21Dec2024 18:11:48.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 4)]
+[21Dec2024 18:11:50.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 61)]
+[21Dec2024 18:11:52.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 10001)]
+[21Dec2024 18:13:02.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 10000)]
+[21Dec2024 18:13:06.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 19998)]
+[21Dec2024 18:13:10.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 10001)]
+[21Dec2024 18:13:14.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 10002)]
+[21Dec2024 18:13:17.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 10003)]
+[21Dec2024 18:13:20.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 10004)]
+[21Dec2024 18:13:22.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 10005)]
+[21Dec2024 18:14:20.331] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: oscarbigw lost connection: Disconnected
+[21Dec2024 18:14:20.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw left the game
+[21Dec2024 18:16:17.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[21Dec2024 18:16:21.334] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darielo_XD lost connection: Disconnected
+[21Dec2024 18:16:21.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD left the game
