@@ -1553,13 +1553,25 @@
     },
     "done": true
   },
-  "easy_mob_farm:recipes/upgrade/filter/no_flowers_filter": {
+  "svm_ep:flora_visited_biome/moss": {
     "criteria": {
-      "has_allium": "2024-12-21 17:58:15 +0000"
+      "requirement": "2024-12-21 17:50:24 +0000"
+    },
+    "done": true
+  },
+  "svm_ep:flora_visited_biome/jungle": {
+    "criteria": {
+      "requirement": "2024-12-21 17:50:24 +0000"
     },
     "done": true
   },
   "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-21 17:51:13 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake": {
     "criteria": {
       "has_egg": "2024-12-21 17:51:13 +0000"
     },
@@ -1571,39 +1583,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_slab": {
-    "criteria": {
-      "has_quartz_pillar": "2024-12-21 17:52:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2024-12-21 17:51:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_pillar": {
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-21 17:51:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_pillar": "2024-12-21 17:52:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/raw_gold": {
+  "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
-      "has_raw_gold_block": "2024-12-21 17:56:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_allium": {
-    "criteria": {
-      "has_allium": "2024-12-21 17:58:15 +0000"
-    },
-    "done": true
-  },
-  "svm_ep:flora_visited_biome/moss": {
-    "criteria": {
-      "requirement": "2024-12-21 17:50:24 +0000"
+      "has_quartz_pillar": "2024-12-21 17:52:36 +0000"
     },
     "done": true
   },
@@ -1619,21 +1619,81 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+  "minecraft:recipes/misc/raw_gold": {
     "criteria": {
-      "has_chicken": "2024-12-21 17:51:14 +0000"
+      "has_raw_gold_block": "2024-12-21 17:56:34 +0000"
     },
     "done": true
   },
-  "svm_ep:flora_visited_biome/jungle": {
+  "easy_mob_farm:recipes/upgrade/filter/no_flowers_filter": {
     "criteria": {
-      "requirement": "2024-12-21 17:50:24 +0000"
+      "has_allium": "2024-12-21 17:58:15 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/cake": {
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
-      "has_egg": "2024-12-21 17:51:13 +0000"
+      "has_allium": "2024-12-21 17:58:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-21 18:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-21 18:05:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-21 18:01:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-21 18:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-21 18:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-21 18:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-21 18:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-21 18:01:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-21 18:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-21 18:01:32 +0000"
     },
     "done": true
   },

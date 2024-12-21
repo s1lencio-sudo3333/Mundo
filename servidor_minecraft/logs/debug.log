@@ -5094,3 +5094,107 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [21Dec2024 17:58:36.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
 [21Dec2024 17:59:16.588] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Dec2024 17:59:16.595] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 17:59:26.889] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darielo_XD lost connection: Disconnected
+[21Dec2024 17:59:26.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD left the game
+[21Dec2024 17:59:31.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw was slain by Zombie
+[21Dec2024 17:59:39.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.not_rescued_in_time
+[21Dec2024 17:59:51.558] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with modlist [advancednetherite, balm, betteradvancements, betterarcheology, bushierflowers, cakechomps, collective, continents, coroutil, cpm, customskinloader, default_skill_trees, display_case, dynamiclights, easy_mob_farm, explorations, fallingtree, forge, geckolib, glitchcore, hardcorerevival, healingcampfire, immediatelyfast, incendium, infinitetrading, inventoryprofilesnext, knightlib, knightquest, kotlinforforge, kuma_api, libipn, mcwlights, minecraft, mixinextras, moremobs, mr_coffwallclimb, mr_dungeons_andtaverns, mr_health_indicator, mr_musical_instrumentspack, mr_serversleep, mr_svm_powers, notenoughanimations, pingwheel, sereneseasons, smallships, spark, spawnanimations, spellbound_weapons_mr, supermartijn642configlib, tlskincape, tool_trims, toughasnails, trade_cycling, travelersbackpack, travelerstitles, watut, xaerominimap, xaeroworldmap, yungsapi]
+[21Dec2024 17:59:51.644] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with channels [fallingtree:main, forge:channel_registration, forge:handshake, forge:login, geckolib:main, glitchcore:main, hardcorerevival:network, ping-wheel-c2s:ping-location, ping-wheel-c2s:update-channel, ping-wheel-s2c:ping-location, sereneseasons:main, smallships:channel, supermartijn642configlib:sync_configs, toughasnails:main, trade_cycling:cycle_trades, travelersbackpack:network, watut:watut_packets, xaerominimap:main, xaeroworldmap:main]
+[21Dec2024 17:59:51.645] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ping-wheel-c2s:ping-location' : Version test of 'PRESENT 0' from client : ACCEPTED
+[21Dec2024 17:59:51.645] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'hardcorerevival:network' : Version test of 'PRESENT 0' from client : ACCEPTED
+[21Dec2024 17:59:51.645] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'supermartijn642configlib:sync_configs' : Version test of 'PRESENT 46671486' from client : ACCEPTED
+[21Dec2024 17:59:51.645] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ping-wheel-s2c:ping-location' : Version test of 'PRESENT 0' from client : ACCEPTED
+[21Dec2024 17:59:51.645] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Version test of 'PRESENT 0' from client : ACCEPTED
+[21Dec2024 17:59:51.645] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Version test of 'PRESENT 0' from client : ACCEPTED
+[21Dec2024 17:59:51.645] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Version test of 'PRESENT 0' from client : ACCEPTED
+[21Dec2024 17:59:51.645] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ping-wheel-c2s:update-channel' : Version test of 'PRESENT 0' from client : ACCEPTED
+[21Dec2024 17:59:51.645] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of 'PRESENT 1' from client : ACCEPTED
+[21Dec2024 17:59:51.645] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'smallships:channel' : Version test of 'PRESENT 0' from client : ACCEPTED
+[21Dec2024 17:59:51.645] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'glitchcore:main' : Version test of 'PRESENT 0' from client : ACCEPTED
+[21Dec2024 17:59:51.645] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'watut:watut_packets' : Version test of 'PRESENT 0' from client : ACCEPTED
+[21Dec2024 17:59:51.645] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sereneseasons:main' : Version test of 'PRESENT 0' from client : ACCEPTED
+[21Dec2024 17:59:51.645] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'trade_cycling:cycle_trades' : Version test of 'PRESENT 0' from client : ACCEPTED
+[21Dec2024 17:59:51.645] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fallingtree:main' : Version test of 'PRESENT 0' from client : ACCEPTED
+[21Dec2024 17:59:51.645] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'travelersbackpack:network' : Version test of 'PRESENT 1' from client : ACCEPTED
+[21Dec2024 17:59:51.645] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Version test of 'PRESENT 1' from client : ACCEPTED
+[21Dec2024 17:59:51.645] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'toughasnails:main' : Version test of 'PRESENT 0' from client : ACCEPTED
+[21Dec2024 17:59:51.645] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of 'PRESENT 1' from client : ACCEPTED
+[21Dec2024 17:59:51.645] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[21Dec2024 17:59:51.733] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 0 from client
+[21Dec2024 17:59:51.817] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 1 from client
+[21Dec2024 17:59:51.904] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 2 from client
+[21Dec2024 17:59:52.080] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 3 from client
+[21Dec2024 17:59:52.165] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 4 from client
+[21Dec2024 17:59:52.250] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 5 from client
+[21Dec2024 17:59:52.425] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 6 from client
+[21Dec2024 17:59:52.510] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 7 from client
+[21Dec2024 17:59:52.593] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 8 from client
+[21Dec2024 17:59:52.677] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 9 from client
+[21Dec2024 17:59:52.762] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 10 from client
+[21Dec2024 17:59:52.847] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 11 from client
+[21Dec2024 17:59:53.019] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 12 from client
+[21Dec2024 17:59:53.104] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 13 from client
+[21Dec2024 17:59:53.188] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 14 from client
+[21Dec2024 17:59:53.289] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 15 from client
+[21Dec2024 17:59:53.373] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 16 from client
+[21Dec2024 17:59:53.458] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 17 from client
+[21Dec2024 17:59:53.545] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 18 from client
+[21Dec2024 17:59:54.048] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 19 from client
+[21Dec2024 17:59:54.854] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darielo_XD[/127.31.182.140:49317] logged in with entity id 16181 at (59.31389817858684, 107.17675927506424, 464.10749777386144)
+[21Dec2024 17:59:54.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD joined the game
+[21Dec2024 17:59:54.985] [Server thread/INFO] [ping-wheel/]: Channel update: Darielo_XD -> default
+[21Dec2024 17:59:58.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Teleported oscarbigw to Darielo_XD]
+[21Dec2024 18:00:08.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Set own game mode to Creative Mode]
+[21Dec2024 18:00:22.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[21Dec2024 18:01:01.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[21Dec2024 18:01:27.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Teleported oscarbigw to 133.500000, 66.500000, 28.500000]
+[21Dec2024 18:01:33.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Teleported Darielo_XD to oscarbigw]
+[21Dec2024 18:01:34.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Set own game mode to Survival Mode]
+[21Dec2024 18:01:48.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[21Dec2024 18:02:25.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[21Dec2024 18:02:27.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Set own game mode to Creative Mode]
+[21Dec2024 18:02:36.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[21Dec2024 18:02:47.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Teleported oscarbigw to Darielo_XD]
+[21Dec2024 18:02:58.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Teleported Darielo_XD to oscarbigw]
+[21Dec2024 18:03:02.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[21Dec2024 18:03:03.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Set own game mode to Survival Mode]
+[21Dec2024 18:03:08.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[21Dec2024 18:03:40.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw has made the advancement [Emptiness]
+[21Dec2024 18:03:40.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw has made the advancement [Special Talent]
+[21Dec2024 18:03:50.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu]]
+[21Dec2024 18:03:53.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 4)]
+[21Dec2024 18:03:55.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 61)]
+[21Dec2024 18:04:01.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 10001)]
+[21Dec2024 18:04:16.569] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 18:04:16.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 18:04:26.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 10000)]
+[21Dec2024 18:04:28.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 10000)]
+[21Dec2024 18:04:38.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 10001)]
+[21Dec2024 18:04:38.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 10001)]
+[21Dec2024 18:04:38.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 10001)]
+[21Dec2024 18:04:38.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 10001)]
+[21Dec2024 18:04:39.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 10001)]
+[21Dec2024 18:04:39.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 10001)]
+[21Dec2024 18:04:39.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 10001)]
+[21Dec2024 18:04:39.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 10001)]
+[21Dec2024 18:04:39.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 10001)]
+[21Dec2024 18:05:00.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD has made the advancement [Sweet Dreams]
+[21Dec2024 18:05:20.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 10)]
+[21Dec2024 18:05:20.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 10)]
+[21Dec2024 18:05:27.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 19998)]
+[21Dec2024 18:05:32.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 3000)]
+[21Dec2024 18:05:35.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 3000)]
+[21Dec2024 18:05:40.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 19999)]
+[21Dec2024 18:05:44.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 3000)]
+[21Dec2024 18:06:05.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 10001)]
+[21Dec2024 18:06:24.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 3)]
+[21Dec2024 18:06:53.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu]]
+[21Dec2024 18:07:12.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 10)]
+[21Dec2024 18:07:16.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 3000)]
+[21Dec2024 18:07:23.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 19998)]
+[21Dec2024 18:07:37.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[21Dec2024 18:08:16.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Running function give:power_chooser]
+[21Dec2024 18:09:16.587] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 18:09:16.593] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 18:09:26.079] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: oscarbigw lost connection: Disconnected
+[21Dec2024 18:09:26.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw left the game
