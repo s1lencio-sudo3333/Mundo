@@ -545,3 +545,37 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [21Dec2024 20:31:05.061] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darielo_XD[/127.31.182.140:35031] logged in with entity id 57337 at (-5483.325706811955, 63.08576431274413, 6995.828571128429)
 [21Dec2024 20:31:05.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD joined the game
 [21Dec2024 20:31:05.250] [Server thread/INFO] [ping-wheel/]: Channel update: Darielo_XD -> default
+[21Dec2024 20:31:31.495] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[21Dec2024 20:31:32.006] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[21Dec2024 20:31:32.054] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[21Dec2024 20:31:32.061] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[21Dec2024 20:31:32.062] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[21Dec2024 20:31:32.063] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[21Dec2024 20:31:32.063] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[21Dec2024 20:31:32.064] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[21Dec2024 20:31:32.064] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[21Dec2024 20:32:53.311] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darielo_XD lost connection: Disconnected
+[21Dec2024 20:32:53.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD left the game
+[21Dec2024 20:32:53.395] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21Dec2024 20:33:39.169] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darielo_XD[/127.31.182.140:50561] logged in with entity id 58190 at (-5367.0452530663915, 62.11076431274413, 7211.048129395587)
+[21Dec2024 20:33:39.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD joined the game
+[21Dec2024 20:33:39.392] [Server thread/INFO] [ping-wheel/]: Channel update: Darielo_XD -> default
+[21Dec2024 20:33:46.540] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=203, y=48, z=159}
+[21Dec2024 20:34:15.172] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Dec2024 20:34:15.174] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Dec2024 20:34:33.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD has made the advancement [A Major Trial Of Strengh]
+[21Dec2024 20:39:06.106] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darielo_XD lost connection: Disconnected
+[21Dec2024 20:39:06.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD left the game
+[21Dec2024 20:39:20.896] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darielo_XD[/127.31.182.140:42439] logged in with entity id 59396 at (-5261.103251014496, -5.0, 7274.315089962376)
+[21Dec2024 20:39:20.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD joined the game
+[21Dec2024 20:39:21.069] [Server thread/INFO] [ping-wheel/]: Channel update: Darielo_XD -> default
+[21Dec2024 20:42:17.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD has made the advancement [Hot-headed]
+[21Dec2024 20:42:17.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD has made the advancement [Special Talent]
+[21Dec2024 20:43:43.647] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: polloxsolo[/127.127.14.13:49669] logged in with entity id 60257 at (54.5, 65.0, -33.5)
+[21Dec2024 20:43:43.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo joined the game
+[21Dec2024 20:43:44.539] [Server thread/INFO] [ping-wheel/]: Channel update: polloxsolo -> default
+[21Dec2024 20:48:31.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD was shot by Skeleton
+[21Dec2024 20:48:45.991] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darielo_XD lost connection: Disconnected
+[21Dec2024 20:48:45.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD left the game
+[21Dec2024 20:50:39.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo froze to death
+[21Dec2024 20:50:43.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.not_rescued_in_time
