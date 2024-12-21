@@ -519,3 +519,18 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [21Dec2024 19:40:29.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 61)]
 [21Dec2024 19:40:40.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 20049)]
 [21Dec2024 19:40:47.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: oscarbigw moved wrongly!
+[21Dec2024 19:41:26.062] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: oscarbigw lost connection: Disconnected
+[21Dec2024 19:41:26.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw left the game
+[21Dec2024 20:03:50.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of Darielo_XD) moved too quickly! -9.579821242298294,0.0,3.1690020595378883
+[21Dec2024 20:03:50.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of Darielo_XD) moved too quickly! -9.936258439082394,0.0,3.343744607037479
+[21Dec2024 20:03:50.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of Darielo_XD) moved too quickly! -10.292057663412379,0.0,3.520367404810713
+[21Dec2024 20:03:50.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of Darielo_XD) moved too quickly! -10.64725856149198,0.0,3.6987260416217396
+[21Dec2024 20:03:50.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of Darielo_XD) moved too quickly! -11.001896762749539,0.0,3.87869051755888
+[21Dec2024 20:03:50.562] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of Darielo_XD) moved too quickly! -11.356008014256304,0.0,4.060137104831028
+[21Dec2024 20:03:50.562] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of Darielo_XD) moved too quickly! -11.709626321218366,0.0,4.242951078903388
+[21Dec2024 20:06:40.556] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=203, y=48, z=159}
+[21Dec2024 20:07:43.208] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darielo_XD lost connection: Disconnected
+[21Dec2024 20:07:43.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD left the game
+[21Dec2024 20:07:57.489] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darielo_XD[/127.31.182.140:35393] logged in with entity id 42027 at (-2546.5277917611124, 63.085764312744146, 3916.373155995892)
+[21Dec2024 20:07:57.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD joined the game
+[21Dec2024 20:07:57.719] [Server thread/INFO] [ping-wheel/]: Channel update: Darielo_XD -> default
