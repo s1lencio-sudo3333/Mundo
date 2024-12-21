@@ -461,3 +461,48 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [21Dec2024 18:48:52.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
 [21Dec2024 18:49:26.508] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darielo_XD lost connection: Disconnected
 [21Dec2024 18:49:26.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD left the game
+[21Dec2024 18:50:46.526] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darielo_XD[/127.31.182.140:56011] logged in with entity id 7903 at (-632.3000000119209, -51.0, -241.9368642775428)
+[21Dec2024 18:50:46.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD joined the game
+[21Dec2024 18:50:46.664] [Server thread/INFO] [ping-wheel/]: Channel update: Darielo_XD -> default
+[21Dec2024 18:51:16.609] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darielo_XD lost connection: Disconnected
+[21Dec2024 18:51:16.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD left the game
+[21Dec2024 18:51:35.283] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: oscarbigw[/127.167.240.13:36227] logged in with entity id 8252 at (140.15270464947608, 65.0, 44.30000001192093)
+[21Dec2024 18:51:35.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw joined the game
+[21Dec2024 18:51:35.425] [Server thread/INFO] [ping-wheel/]: Channel update: oscarbigw -> default
+[21Dec2024 18:51:45.377] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darielo_XD[/127.31.182.140:48419] logged in with entity id 8478 at (-632.3000000119209, -51.0, -241.9368642775428)
+[21Dec2024 18:51:45.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD joined the game
+[21Dec2024 18:51:45.511] [Server thread/INFO] [ping-wheel/]: Channel update: Darielo_XD -> default
+[21Dec2024 18:51:46.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Teleported oscarbigw to Darielo_XD]
+[21Dec2024 18:52:30.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw has made the advancement [Diamonds!]
+[21Dec2024 18:52:32.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[21Dec2024 18:53:02.809] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=216, y=47, z=211}
+[21Dec2024 18:53:17.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[21Dec2024 18:53:57.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[21Dec2024 18:54:09.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[21Dec2024 18:57:25.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.toughasnails.hyperthermia
+[21Dec2024 18:58:29.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw has made the advancement [Suit Up]
+[21Dec2024 19:01:01.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw died
+[21Dec2024 19:01:20.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD was slain by Zombie
+[21Dec2024 19:01:22.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw died
+[21Dec2024 19:02:06.072] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darielo_XD lost connection: Disconnected
+[21Dec2024 19:02:06.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD left the game
+[21Dec2024 19:02:07.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.not_rescued_in_time
+[21Dec2024 19:02:17.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Teleported oscarbigw to -602.500000, -24.500000, -224.500000]
+[21Dec2024 19:02:27.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw was slain by Zombie
+[21Dec2024 19:02:29.097] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darielo_XD[/127.31.182.140:46211] logged in with entity id 11784 at (-601.4733049069133, -24.9375, -223.30000001192093)
+[21Dec2024 19:02:29.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD joined the game
+[21Dec2024 19:02:29.281] [Server thread/INFO] [ping-wheel/]: Channel update: Darielo_XD -> default
+[21Dec2024 19:02:30.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.not_rescued_in_time
+[21Dec2024 19:02:34.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Teleported oscarbigw to -606.500000, -25.500000, -227.500000]
+[21Dec2024 19:02:41.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw was shot by Skeleton
+[21Dec2024 19:02:43.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.not_rescued_in_time.player
+[21Dec2024 19:02:47.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Teleported oscarbigw to -610.500000, -26.500000, -240.500000]
+[21Dec2024 19:02:48.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Set own game mode to Creative Mode]
+[21Dec2024 19:03:26.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[21Dec2024 19:03:34.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Set own game mode to Survival Mode]
+[21Dec2024 19:04:51.469] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: oscarbigw lost connection: Disconnected
+[21Dec2024 19:04:51.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw left the game
+[21Dec2024 19:13:32.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD has made the advancement [advancements.vase]
+[21Dec2024 19:15:54.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD has made the advancement [Ice Bucket Challenge]
+[21Dec2024 19:20:23.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD froze to death
+[21Dec2024 19:20:25.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.not_rescued_in_time
