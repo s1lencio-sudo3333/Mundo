@@ -1,0 +1,472 @@
+[21Dec2024 17:08:39.840] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server]
+[21Dec2024 17:08:39.843] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Microsoft OpenJDK 64-Bit Server VM 21.0.5+11-LTS
+[21Dec2024 17:08:39.844] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.2 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[21Dec2024 17:08:40.516] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[21Dec2024 17:08:40.629] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/Mundo/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[21Dec2024 17:08:40.905] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Locator {mods folder locator at /workspaces/Mundo/servidor_minecraft/mods} returned 2 files which are client-side-only mods, but we're on a dedicated server. They will be skipped!
+[21Dec2024 17:08:41.417] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 15 dependencies adding them to mods collection
+[21Dec2024 17:08:42.931] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[21Dec2024 17:08:42.992] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
+[21Dec2024 17:08:43.027] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments []
+[21Dec2024 17:08:43.051] [main/WARN] [mixin/]: Reference map 'kuma_api.refmap.json' for kuma_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Dec2024 17:08:43.052] [main/WARN] [mixin/]: Reference map 'kuma_api.refmap.json' for kuma_api.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Dec2024 17:08:43.053] [main/WARN] [mixin/]: Reference map 'geckolib.refmap.json' for geckolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Dec2024 17:08:43.054] [main/WARN] [mixin/]: Reference map 'Ping-Wheel-refmap.json' for ping-wheel.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Dec2024 17:08:43.062] [main/WARN] [mixin/]: Reference map 'yungsapi.refmap.json' for yungsapi.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Dec2024 17:08:43.134] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Dec2024 17:08:43.135] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Dec2024 17:08:43.136] [main/WARN] [mixin/]: Reference map 'sereneseasons.refmap.json' for sereneseasons.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Dec2024 17:08:43.136] [main/WARN] [mixin/]: Reference map 'sereneseasons.refmap.json' for sereneseasons.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Dec2024 17:08:43.137] [main/WARN] [mixin/]: Reference map 'balm.refmap.json' for balm.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Dec2024 17:08:43.138] [main/WARN] [mixin/]: Reference map 'balm.refmap.json' for balm.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Dec2024 17:08:43.138] [main/WARN] [mixin/]: Reference map 'watut.refmap.json' for watut.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Dec2024 17:08:43.139] [main/WARN] [mixin/]: Reference map 'travelerstitles.refmap.json' for travelerstitles.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Dec2024 17:08:43.140] [main/WARN] [mixin/]: Reference map 'travelerstitles.refmap.json' for travelerstitles_forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Dec2024 17:08:43.141] [main/WARN] [mixin/]: Reference map 'explorations.refmap.json' for explorations.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Dec2024 17:08:43.141] [main/WARN] [mixin/]: Reference map 'trade_cycling.refmap.json' for trade_cycling.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Dec2024 17:08:43.144] [main/WARN] [mixin/]: Reference map 'cakechomps.refmap.json' for cakechomps.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Dec2024 17:08:43.145] [main/WARN] [mixin/]: Reference map 'toughasnails.refmap.json' for toughasnails.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Dec2024 17:08:43.145] [main/WARN] [mixin/]: Reference map 'toughasnails.refmap.json' for toughasnails.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Dec2024 17:08:43.146] [main/WARN] [mixin/]: Reference map 'hardcorerevival.refmap.json' for hardcorerevival.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Dec2024 17:08:43.148] [main/WARN] [mixin/]: Reference map 'hardcorerevival.refmap.json' for hardcorerevival.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Dec2024 17:08:43.148] [main/WARN] [mixin/]: Reference map 'betterarcheology.refmap.json' for betterarcheology.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Dec2024 17:08:43.149] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Dec2024 17:08:43.167] [main/WARN] [mixin/]: Reference map 'ipnext.refmap.json' for mixins.ipnext.json could not be read. If this is a development environment you can ignore this message
+[21Dec2024 17:08:43.170] [main/WARN] [mixin/]: Reference map 'bushierflowers.refmap.json' for bushierflowers.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Dec2024 17:08:43.508] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/multiplayer/ClientPacketListener for invalid dist DEDICATED_SERVER
+[21Dec2024 17:08:43.509] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/multiplayer/ClientPacketListener (java.lang.RuntimeException: Attempted to load class net/minecraft/client/multiplayer/ClientPacketListener for invalid dist DEDICATED_SERVER)
+[21Dec2024 17:08:43.509] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.multiplayer.ClientPacketListener was not found cpm.mixins.json:ClientPacketListenerMixinForge
+[21Dec2024 17:08:44.085] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[21Dec2024 17:08:44.350] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/Mundo/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/Mundo/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/Mundo/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/Mundo/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
+[21Dec2024 17:08:44.466] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/Mundo/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/Mundo/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/Mundo/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/Mundo/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[21Dec2024 17:08:50.406] [modloading-worker-0/INFO] [Easy Mob Farm/]: Initializing Easy Mob Farm (Forge) ...
+[21Dec2024 17:08:50.407] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Debug Manager ...
+[21Dec2024 17:08:50.408] [modloading-worker-0/WARN] [Easy Mob Farm/]: [Debug Manager] Detected debug log level for Easy Mob Farm with ALL!
+[21Dec2024 17:08:50.408] [modloading-worker-0/WARN] [Easy Mob Farm/]: [Debug Manager] Adjusting log level for Easy Mob Farm from ALL to INFO, for performance reasons!
+[21Dec2024 17:08:50.408] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Debug Manager] Add new logger config for Easy Mob Farm with level INFO ...
+[21Dec2024 17:08:50.409] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Constants ...
+[21Dec2024 17:08:50.410] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Configuration ...
+[21Dec2024 17:08:50.411] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config] Updated configuration path to /workspaces/Mundo/servidor_minecraft/config/easy_mob_farm
+[21Dec2024 17:08:50.412] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config] Registering common configuration ...
+[21Dec2024 17:08:50.420] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config]  Mob Farm Configuration
+
+ This configuration file allows you to define the general settings for the Mob Farms.
+
+ is up to date: {tier0progressionUpgradeSpeed=0, tier3progressionUpgradeSpeed=9, tier2progressionUpgradeSpeed=6, tier1progressionUpgradeSpeed=3, experienceDropChance=5, speedEnhancementUpgradeSpeed=6}
+[21Dec2024 17:08:50.432] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config]  Mob Farm Bonus Configuration
+
+ This configuration file allows you to define the bonus drops for the Mob Farms.
+
+The format is as follows:
+- <mob_farm_name>::<tier_level>::<entity_type> = <item_name>::<amount>::<chance 1 of x>
+
+Example:
+- bee_hive_farm::0::minecraft:bee = minecraft:honeycomb::1::20
+- bee_hive_farm::1::minecraft:bee = minecraft:honeycomb::1::15
+- bee_hive_farm::2::minecraft:bee = minecraft:honeycomb::1::10
+- bee_hive_farm::3::minecraft:bee = minecraft:honeycomb::1::5
+
+To disable a bonus drop for a default definition, set the amount to 0.
+
+ is up to date: {swamp_farm::1::minecraft:witch=minecraft:redstone::1::15, animal_plains_farm::3::minecraft:sheep=minecraft:white_wool::1::5, monster_plains_cave_farm::1::minecraft:zombie=minecraft:rotten_flesh::1::15, ocean_farm::2::minecraft:squid=minecraft:ink_sac::1::10, nether_fortress_farm::0::minecraft:blaze=minecraft:blaze_rod::1::20, iron_golem_farm::0::minecraft:iron_golem=minecraft:iron_ingot::1::20, ocean_farm::2::minecraft:cod=minecraft:cod::1::10, jungle_farm::1::minecraft:parrot=minecraft:feather::1::15, swamp_farm::2::minecraft:witch=minecraft:redstone::1::10, ocean_farm::1::minecraft:squid=minecraft:ink_sac::1::15, jungle_farm::1::minecraft:panda=minecraft:bamboo::1::15, swamp_farm::0::minecraft:frog=minecraft:slime_ball::1::20, animal_plains_farm::2::minecraft:sheep=minecraft:white_wool::1::10, animal_plains_farm::3::minecraft:chicken=minecraft:egg::1::5, animal_plains_farm::1::minecraft:sheep=minecraft:white_wool::1::15, iron_golem_farm::1::minecraft:iron_golem=minecraft:iron_ingot::1::15, swamp_farm::3::minecraft:frog=minecraft:slime_ball::1::5, nether_fortress_farm::1::minecraft:blaze=minecraft:blaze_rod::1::15, bee_hive_farm::2::minecraft:bee=minecraft:honeycomb::1::10, desert_farm::1::minecraft:husk=minecraft:sand::1::15, jungle_farm::0::minecraft:panda=minecraft:bamboo::1::20, nether_fortress_farm::0::minecraft:magma_cube=minecraft:magma_cream::1::20, jungle_farm::2::minecraft:parrot=minecraft:feather::1::10, swamp_farm::2::minecraft:frog=minecraft:slime_ball::1::10, animal_plains_farm::0::minecraft:chicken=minecraft:egg::1::20, nether_fortress_farm::3::minecraft:blaze=minecraft:blaze_rod::1::5, animal_plains_farm::1::minecraft:chicken=minecraft:egg::1::15, ocean_farm::0::minecraft:squid=minecraft:ink_sac::1::20, animal_plains_farm::1::minecraft:cow=minecraft:leather::1::15, ocean_farm::0::minecraft:cod=minecraft:cod::1::20, desert_farm::0::minecraft:husk=minecraft:sand::1::20, monster_plains_cave_farm::0::minecraft:zombie=minecraft:rotten_flesh::1::20, desert_farm::3::minecraft:husk=minecraft:sand::1::5, desert_farm::2::minecraft:rabbit=minecraft:rabbit_hide::1::10, animal_plains_farm::2::minecraft:cow=minecraft:leather::1::10, jungle_farm::3::minecraft:panda=minecraft:bamboo::1::5, ocean_farm::3::minecraft:squid=minecraft:ink_sac::1::5, jungle_farm::3::minecraft:parrot=minecraft:feather::1::5, desert_farm::3::minecraft:rabbit=minecraft:rabbit_hide::1::5, ocean_farm::1::minecraft:cod=minecraft:cod::1::15, ocean_farm::3::minecraft:cod=minecraft:cod::1::5, animal_plains_farm::3::minecraft:cow=minecraft:leather::1::5, nether_fortress_farm::3::minecraft:magma_cube=minecraft:magma_cream::1::5, desert_farm::2::minecraft:husk=minecraft:sand::1::10, bee_hive_farm::3::minecraft:bee=minecraft:honeycomb::1::5, swamp_farm::2::minecraft:slime=minecraft:slime_ball::1::10, swamp_farm::1::minecraft:frog=minecraft:slime_ball::1::15, bee_hive_farm::1::minecraft:bee=minecraft:honeycomb::1::15, swamp_farm::0::minecraft:slime=minecraft:slime_ball::1::20, desert_farm::1::minecraft:rabbit=minecraft:rabbit_hide::1::15, animal_plains_farm::0::minecraft:cow=minecraft:leather::1::20, animal_plains_farm::2::minecraft:chicken=minecraft:egg::1::10, swamp_farm::3::minecraft:slime=minecraft:slime_ball::1::5, jungle_farm::2::minecraft:panda=minecraft:bamboo::1::10, bee_hive_farm::0::minecraft:bee=minecraft:honeycomb::1::20, swamp_farm::3::minecraft:witch=minecraft:redstone::1::5, animal_plains_farm::0::minecraft:sheep=minecraft:white_wool::1::20, nether_fortress_farm::2::minecraft:blaze=minecraft:blaze_rod::1::10, nether_fortress_farm::1::minecraft:magma_cube=minecraft:magma_cream::1::15, iron_golem_farm::2::minecraft:iron_golem=minecraft:iron_ingot::1::10, monster_plains_cave_farm::3::minecraft:zombie=minecraft:rotten_flesh::1::5, desert_farm::0::minecraft:rabbit=minecraft:rabbit_hide::1::20, swamp_farm::0::minecraft:witch=minecraft:redstone::1::20, iron_golem_farm::3::minecraft:iron_golem=minecraft:iron_ingot::1::5, monster_plains_cave_farm::2::minecraft:zombie=minecraft:rotten_flesh::1::10, nether_fortress_farm::2::minecraft:magma_cube=minecraft:magma_cream::1::10, jungle_farm::0::minecraft:parrot=minecraft:feather::1::20, swamp_farm::1::minecraft:slime=minecraft:slime_ball::1::15}
+[21Dec2024 17:08:50.438] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Registering server started event...
+[21Dec2024 17:08:50.441] [modloading-worker-0/INFO] [ping-wheel/]: [Ping-Wheel] Init
+[21Dec2024 17:08:50.445] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config]  Mob Capture Card Configuration
+
+ This configuration file allows you to define the general settings for the Mob Capture Cards.
+
+ Allow and Deny list
+ -------------------
+ If you want to allow or deny specific mobs, you can use the allow and deny list.
+ Keep in mind that if you add a mob to the allow list, all other mobs will be denied by default.
+ There are two separate lists for kill and fishing drops.
+
+  Example for allow only specific mobs:
+    mobCaptureCardKillDropAllowList=minecraft:zombie,minecraft:skeleton
+    mobCaptureCardKillDropDenyList=
+    mobCaptureCardFishingDropAllowList=minecraft:cod,minecraft:salmon
+    mobCaptureCardFishingDropDenyList=
+
+  Example for deny specific mobs:
+    mobCaptureCardKillDropAllowList=
+    mobCaptureCardKillDropDenyList=minecraft:ender_dragon,minecraft:wither
+    mobCaptureCardFishingDropAllowList=
+    mobCaptureCardFishingDropDenyList=minecraft:squid,minecraft:turtle
+
+
+ is up to date: {mobCaptureCardFishingDropAllowList=, mobCaptureCardFishingDropChance=0.15, dropMobCaptureCardOnFishing=true, mobCaptureCardFishingDropDenyList=, requirePlayerKill=true, mobCaptureCardKillDropAllowList=, mobCaptureCardKillDropDenyList=, mobCaptureCardKillDropChance=0.1, mobCaptureCardFoilDropChance=0.01, dropMobCaptureCardOnKill=true}
+[21Dec2024 17:08:50.448] [modloading-worker-0/INFO] [ping-wheel/]: [Ping-Wheel] Loaded ServerConfig(defaultChannelMode=auto, playerTrackingEnabled=true, msToRegenerate=1000, rateLimit=5)
+[21Dec2024 17:08:50.450] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config]  Mob Capture Card Rarity Configuration
+
+ This configuration file allows you to define the rarity for the Mob Capture Cards.
+
+ The format is as follows:
+ - <entity_name> = Rarity
+
+ Example:
+ - minecraft:zombie = COMMON
+
+ Supported rarities are:
+  - COMMON
+  - UNCOMMON
+  - RARE
+  - EPIC
+
+ is up to date: {minecraft:blaze=RARE, minecraft:pillager=COMMON, minecraft:skeleton=COMMON, minecraft:elder_guardian=EPIC, minecraft:ravager=RARE, minecraft:squid=COMMON, minecraft:ghast=RARE, minecraft:strider=RARE, minecraft:guardian=RARE, minecraft:cow=COMMON, minecraft:vindicator=RARE, minecraft:magma_cube=RARE, minecraft:piglin_brute=EPIC, minecraft:spider=COMMON, minecraft:creeper=COMMON, minecraft:warden=EPIC, minecraft:wither=EPIC, minecraft:horse=COMMON, minecraft:evoker=UNCOMMON, minecraft:slime=UNCOMMON, minecraft:polar_bear=UNCOMMON, minecraft:cat=COMMON, minecraft:bat=COMMON, minecraft:illusioner=EPIC, minecraft:phantom=RARE, minecraft:witch=COMMON, minecraft:wither_skeleton=EPIC, minecraft:fox=UNCOMMON, minecraft:llama=UNCOMMON, minecraft:pig=COMMON, minecraft:husk=UNCOMMON, minecraft:sheep=COMMON, minecraft:ender_dragon=EPIC, minecraft:shulker=RARE, minecraft:cave_spider=UNCOMMON, minecraft:villager=COMMON, minecraft:enderman=UNCOMMON, minecraft:stray=UNCOMMON, minecraft:chicken=COMMON, minecraft:zombie=COMMON, minecraft:drowned=COMMON, minecraft:wolf=COMMON, minecraft:panda=UNCOMMON}
+[21Dec2024 17:08:50.452] [modloading-worker-0/INFO] [Easy Mob Farm/]: [Config] Registering server configuration ...
+[21Dec2024 17:08:50.453] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Experience Manager ...
+[21Dec2024 17:08:50.457] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Experience Manager ModExperienceManager
+[21Dec2024 17:08:50.458] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Blocks ...
+[21Dec2024 17:08:50.468] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Blocks Entities ...
+[21Dec2024 17:08:50.475] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Items ...
+[21Dec2024 17:08:50.486] [modloading-worker-0/INFO] [Easy Mob Farm/]: Register Easy Mob Farm Menu Types ...
+[21Dec2024 17:08:50.642] [modloading-worker-0/INFO] [glitchcore/]: Registered synced config with path sereneseasons/fertility.toml
+[21Dec2024 17:08:50.645] [modloading-worker-0/INFO] [glitchcore/]: Registered synced config with path sereneseasons/seasons.toml
+[21Dec2024 17:08:50.677] [modloading-worker-0/INFO] [DisplayCase/]: Hello Forge world!
+[21Dec2024 17:08:50.683] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[21Dec2024 17:08:50.697] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 52.0.22, for MC 1.21.1 with MCP 20240808.132146
+[21Dec2024 17:08:50.698] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v52.0.22 Initialized
+[21Dec2024 17:08:50.720] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[21Dec2024 17:08:50.753] [modloading-worker-0/INFO] [net.tschipcraft.moremobs.forge.Init/]: [More Mobs] Registering server started event...
+[21Dec2024 17:08:50.887] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.87.
+[21Dec2024 17:08:50.921] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
+[21Dec2024 17:08:50.977] [modloading-worker-0/INFO] [glitchcore/]: Registered synced config with path toughasnails/thirst.toml
+[21Dec2024 17:08:50.977] [modloading-worker-0/INFO] [glitchcore/]: Registered synced config with path toughasnails/temperature.toml
+[21Dec2024 17:08:51.032] [modloading-worker-0/INFO] [toughasnails/]: Serene Seasons detected. Enabling season modifier.
+[21Dec2024 17:08:51.054] [modloading-worker-0/INFO] [spawnanimations/]: [Spawn Animations] Registering server started event...
+[21Dec2024 17:08:51.105] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[21Dec2024 17:08:51.110] [modloading-worker-0/INFO] [org.anti_ad.mc.common.LogBase/]: [libIPN] libIPN - init in Kotlin
+[21Dec2024 17:08:51.130] [modloading-worker-0/INFO] [Inventory Profiles Next/]: [Inventory Profiles Next] Inventory Profiles Next - init in Kotlin
+[21Dec2024 17:08:51.907] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
+[21Dec2024 17:08:51.914] [modloading-worker-0/INFO] [net.tschipcraft.moremobs.forge.Init/]: [More Mobs] Loaded More Mobs by Tschipcraft successfully!
+[21Dec2024 17:08:51.924] [modloading-worker-0/INFO] [spawnanimations/]: [Spawn Animations] Loaded Spawn Animations by Tschipcraft successfully!
+[21Dec2024 17:08:51.926] [modloading-worker-0/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Bushier Flowers set up
+[21Dec2024 17:08:51.937] [modloading-worker-0/INFO] [CPM/]: Customizable Player Models Initialized
+[21Dec2024 17:08:51.961] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[21Dec2024 17:08:51.962] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[21Dec2024 17:08:51.962] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 2
+[21Dec2024 17:08:51.963] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of toughasnails:water_canteen for Water (Fluid Amount Required: 200) with the ID 3
+[21Dec2024 17:08:51.963] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of toughasnails:water for Water (Fluid Amount Required: 1000) with the ID 4
+[21Dec2024 17:08:51.972] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[21Dec2024 17:08:51.972] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[21Dec2024 17:08:51.974] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[21Dec2024 17:08:51.974] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[21Dec2024 17:08:51.981] [modloading-worker-0/INFO] [CPM/]: Customizable Player Models API initialized: Loaded plugins: (0)
+
+[21Dec2024 17:08:52.072] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:52.073] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:52.073] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:52.073] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:52.074] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:52.074] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:52.075] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:52.075] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:52.075] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:52.076] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:52.076] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:52.076] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:52.077] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:52.077] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:52.078] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:52.078] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:52.078] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:52.079] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:52.080] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:52.080] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:52.081] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:52.081] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:52.081] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:52.082] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:52.082] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:52.082] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:52.083] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:52.083] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:52.083] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:52.084] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:52.084] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:52.085] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:52.085] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:52.086] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:52.086] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:52.086] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:52.087] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:52.087] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:52.087] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:52.088] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:52.088] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:52.088] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:52.089] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:52.089] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:52.089] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:52.090] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:52.091] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:52.091] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:52.091] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:52.092] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:52.092] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:52.092] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:52.093] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:52.093] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:52.093] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:52.094] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:52.094] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:52.094] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:52.095] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:52.096] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:52.096] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:52.096] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:52.096] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:52.097] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:52.097] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:52.097] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:52.222] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_coffwallclimb] Starting version check at https://api.modrinth.com/updates/ie1S9PJr/forge_updates.json
+[21Dec2024 17:08:52.792] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_coffwallclimb] Found status: OUTDATED Current: 2.2 Target: 2.2+mod
+[21Dec2024 17:08:52.793] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Starting version check at https://api.modrinth.com/updates/7YjclEGc/forge_updates.json
+[21Dec2024 17:08:52.836] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Found status: UP_TO_DATE Current: 1.8.5+mod Target: null
+[21Dec2024 17:08:52.837] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[21Dec2024 17:08:52.875] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: BETA Current: 10.1.2 Target: null
+[21Dec2024 17:08:52.875] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cpm] Starting version check at https://raw.githubusercontent.com/tom5454/CustomPlayerModels/master/version-check.json
+[21Dec2024 17:08:53.028] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cpm] Found status: BETA_OUTDATED Current: 0.6.17b Target: 0.6.19a
+[21Dec2024 17:08:53.029] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_health_indicator] Starting version check at https://api.modrinth.com/updates/hxaUKE37/forge_updates.json
+[21Dec2024 17:08:53.084] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_health_indicator] Found status: BETA_OUTDATED Current: 4 Target: 4+mod
+[21Dec2024 17:08:53.085] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [spellbound_weapons_mr] Starting version check at https://api.modrinth.com/updates/egyqODDj/forge_updates.json
+[21Dec2024 17:08:53.124] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [spellbound_weapons_mr] Found status: UP_TO_DATE Current: 4.1.0c Target: null
+[21Dec2024 17:08:53.124] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[21Dec2024 17:08:53.188] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA_OUTDATED Current: 52.0.22 Target: 52.0.28
+[21Dec2024 17:08:53.188] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moremobs] Starting version check at https://api.modrinth.com/updates/HJR6V0I2/forge_updates.json
+[21Dec2024 17:08:53.234] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moremobs] Found status: UP_TO_DATE Current: 1.5.4+mod Target: null
+[21Dec2024 17:08:53.235] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Starting version check at https://update.maxhenkel.de/forge/trade_cycling
+[21Dec2024 17:08:53.552] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Found status: BETA Current: 1.21.1-1.0.15 Target: 1.21.1-1.0.14
+[21Dec2024 17:08:53.552] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_serversleep] Starting version check at https://api.modrinth.com/updates/Cw8IlnGM/forge_updates.json
+[21Dec2024 17:08:53.629] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_serversleep] Found status: AHEAD Current: 1-datapack2 Target: null
+[21Dec2024 17:08:53.629] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_svm_powers] Starting version check at https://api.modrinth.com/updates/34GeP0Mj/forge_updates.json
+[21Dec2024 17:08:53.676] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_svm_powers] Found status: OUTDATED Current: 1.62 Target: 1.62+mod
+[21Dec2024 17:08:53.676] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
+[21Dec2024 17:08:53.685] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.2.0 Target: 2.2.0
+[21Dec2024 17:08:53.685] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
+[21Dec2024 17:08:53.711] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21Dec2024 17:08:53.732] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: AHEAD Current: 1-v4.4.4 Target: null
+[21Dec2024 17:08:53.733] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_musical_instrumentspack] Starting version check at https://api.modrinth.com/updates/HuBDzYkQ/forge_updates.json
+[21Dec2024 17:08:53.844] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.844] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.844] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.844] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.845] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.845] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.845] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.845] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.845] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.845] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.846] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.846] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.846] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.846] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.846] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.846] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.846] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.847] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.847] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.847] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.847] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.847] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.847] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.847] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.848] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.848] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.848] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.848] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.848] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.848] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.849] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.849] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.849] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.849] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.849] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.849] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.849] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.850] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.850] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.850] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.850] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.850] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.850] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.851] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.851] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.851] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.851] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.851] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.851] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.852] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.852] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.852] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.852] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.852] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.852] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.852] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.853] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.853] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.853] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.853] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.853] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.853] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.854] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.854] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.854] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.854] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.855] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_musical_instrumentspack] Found status: OUTDATED Current: 1.2 Target: 1.2_modded
+[21Dec2024 17:08:53.856] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [spawnanimations] Starting version check at https://api.modrinth.com/updates/zrzYrlm0/forge_updates.json
+[21Dec2024 17:08:53.896] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [spawnanimations] Found status: UP_TO_DATE Current: 1.10+mod Target: null
+[21Dec2024 17:08:53.896] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Starting version check at https://raw.githubusercontent.com/talhanation/smallships/main/update.json
+[21Dec2024 17:08:53.906] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Found status: AHEAD Current: 2.0.0-b2.1 Target: null
+[21Dec2024 17:08:53.906] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/lights.json
+[21Dec2024 17:08:53.908] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.908] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.908] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.908] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.909] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.909] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.909] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.909] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.909] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.909] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.909] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.910] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.910] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.910] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.910] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.910] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.910] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.910] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.911] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.911] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.911] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.911] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.911] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.911] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.911] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.912] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.912] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.912] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.912] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.912] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.912] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.912] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.913] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.913] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.913] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.913] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.913] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.913] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.913] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.914] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.914] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.914] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.914] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.914] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.914] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.914] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.915] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.915] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.915] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.915] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.915] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.915] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.916] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.916] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.916] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.916] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.916] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.916] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Found status: BETA Current: 1.1.0 Target: null
+[21Dec2024 17:08:53.917] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.917] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.917] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.917] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.917] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.918] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.918] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:53.918] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:netherman_teleport_charge has no attributes
+[21Dec2024 17:08:53.918] [main/ERROR] [net.minecraft.Util/]: Entity knightquest:swampman_axe has no attributes
+[21Dec2024 17:08:54.753] [main/WARN] [net.minecraft.server.packs.repository.Pack/]: Pack mod:mr_musical_instrumentspack declared support for versions [32, 32] but declared main format is 48, defaulting to 48
+[21Dec2024 17:08:54.898] [main/ERROR] [net.minecraft.world.level.biome.MobSpawnSettings/]: Spawn data: minCount needs to be smaller or equal to maxCount
+[21Dec2024 17:08:56.577] [Worker-Main-3/INFO] [Easy Mob Farm/]: Register Easy Mob Farm /easy_mob_farm commands for Easy Mob Farm ...
+[21Dec2024 17:08:56.824] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Invalid path in pack: spellbound_weapons:advancement/magmus_charger copy.json, ignoring
+[21Dec2024 17:08:57.883] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 2007 recipes
+[21Dec2024 17:08:58.139] [main/ERROR] [net.minecraft.advancements.AdvancementTree/]: Couldn't load advancements: [minecraft:wander_add_map, minecraft:give_quest_trader_trade]
+[21Dec2024 17:08:58.139] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 2068 advancements
+[21Dec2024 17:08:58.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.1
+[21Dec2024 17:08:58.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[21Dec2024 17:08:58.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[21Dec2024 17:08:58.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[21Dec2024 17:08:58.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[21Dec2024 17:08:58.930] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[21Dec2024 17:08:58.990] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21Dec2024 17:08:58.991] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[21Dec2024 17:08:58.991] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21Dec2024 17:08:58.991] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[21Dec2024 17:08:59.036] [Server thread/INFO] [Explorations/]: Config 'explorations.json' was successfully loaded.
+[21Dec2024 17:08:59.037] [Server thread/INFO] [Explorations/]: Added statues to vanilla villages
+[21Dec2024 17:08:59.129] [Server thread/INFO] [spark/]: Starting background profiler...
+[21Dec2024 17:08:59.506] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[21Dec2024 17:09:04.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[21Dec2024 17:09:09.141] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Dec2024 17:09:09.145] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Dec2024 17:09:09.145] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Dec2024 17:09:09.146] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Dec2024 17:09:09.146] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Dec2024 17:09:09.146] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Dec2024 17:09:09.147] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Dec2024 17:09:09.147] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Dec2024 17:09:09.147] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Dec2024 17:09:09.148] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Dec2024 17:09:09.329] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4774 ms
+[21Dec2024 17:09:09.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.328s)! For help, type "help"
+[21Dec2024 17:09:09.353] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[21Dec2024 17:10:06.145] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: oscarbigw[/127.167.240.13:38219] logged in with entity id 17 at (90.74017506150322, 65.0, 51.5)
+[21Dec2024 17:10:06.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw joined the game
+[21Dec2024 17:10:06.657] [Server thread/INFO] [ping-wheel/]: Channel update: oscarbigw -> default
+[21Dec2024 17:12:39.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw froze to death
+[21Dec2024 17:12:49.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.not_rescued_in_time
+[21Dec2024 17:13:29.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 5)]
+[21Dec2024 17:14:41.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 10)]
+[21Dec2024 17:14:47.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 19999)]
+[21Dec2024 17:14:59.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu]]
+[21Dec2024 17:15:19.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 10)]
+[21Dec2024 17:15:24.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 19999)]
+[21Dec2024 17:15:31.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.toggle_power]]
+[21Dec2024 17:15:38.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.switch_hotbar]]
+[21Dec2024 17:16:32.952] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darielo_XD[/127.31.182.140:58805] logged in with entity id 1433 at (212.1957285992502, 48.024424088213685, 96.74469655743108)
+[21Dec2024 17:16:32.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD joined the game
+[21Dec2024 17:16:35.029] [Server thread/INFO] [ping-wheel/]: Channel update: Darielo_XD -> default
+[21Dec2024 17:16:50.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw died
+[21Dec2024 17:16:53.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.not_rescued_in_time
+[21Dec2024 17:17:30.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[21Dec2024 17:17:34.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[21Dec2024 17:17:40.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[21Dec2024 17:17:43.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.not_rescued_in_time
+[21Dec2024 17:19:34.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darielo_XD: Triggered [svm_ep.menu] (set value to 3)]
+[21Dec2024 17:19:50.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darielo_XD: Triggered [svm_ep.menu] (set value to 3)]
+[21Dec2024 17:19:56.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darielo_XD: Triggered [svm_ep.menu] (set value to 4)]
+[21Dec2024 17:20:01.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu]]
+[21Dec2024 17:20:02.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darielo_XD: Triggered [svm_ep.menu] (set value to 10)]
+[21Dec2024 17:20:04.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darielo_XD: Triggered [svm_ep.menu] (set value to 4)]
+[21Dec2024 17:20:06.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darielo_XD: Triggered [svm_ep.menu] (set value to 3000)]
+[21Dec2024 17:20:07.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darielo_XD: Triggered [svm_ep.menu] (set value to 11000)]
+[21Dec2024 17:20:07.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 6)]
+[21Dec2024 17:20:08.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darielo_XD: Triggered [svm_ep.menu] (set value to 10000)]
+[21Dec2024 17:20:09.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darielo_XD: Triggered [svm_ep.menu] (set value to 19998)]
+[21Dec2024 17:20:26.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw has made the advancement [Stone Age]
+[21Dec2024 17:20:50.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw has made the advancement [Getting an Upgrade]
+[21Dec2024 17:21:30.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD has made the advancement [Suit Up]
+[21Dec2024 17:21:44.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD has made the advancement [Isn't It Iron Pick]
+[21Dec2024 17:24:43.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD has made the advancement [Not Today, Thank You]
+[21Dec2024 17:24:46.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD has made the advancement [Monster Hunter]
+[21Dec2024 17:24:49.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw was shot by Skeleton
+[21Dec2024 17:24:58.482] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[21Dec2024 17:25:04.432] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[21Dec2024 17:26:43.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw has made the advancement [Monster Hunter]
+[21Dec2024 17:27:11.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw has made the advancement [advancement.easy_mob_farm.root.title]
+[21Dec2024 17:27:21.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD has made the advancement [Diamonds!]
+[21Dec2024 17:27:54.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw died
+[21Dec2024 17:28:14.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw died
+[21Dec2024 17:28:32.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[21Dec2024 17:28:32.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw died
