@@ -5247,3 +5247,58 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [21Dec2024 19:25:04.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Darielo_XD> oscar mmg
 [21Dec2024 19:25:59.315] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Dec2024 19:25:59.320] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 19:30:47.360] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with modlist [advancednetherite, balm, betteradvancements, betterarcheology, bushierflowers, cakechomps, collective, continents, coroutil, cpm, customskinloader, default_skill_trees, display_case, dynamiclights, easy_mob_farm, explorations, fallingtree, forge, geckolib, glitchcore, hardcorerevival, healingcampfire, immediatelyfast, incendium, infinitetrading, inventoryprofilesnext, knightlib, knightquest, kotlinforforge, kuma_api, libipn, mcwlights, minecraft, mixinextras, moremobs, mr_coffwallclimb, mr_dungeons_andtaverns, mr_health_indicator, mr_musical_instrumentspack, mr_serversleep, mr_svm_powers, notenoughanimations, pingwheel, sereneseasons, smallships, spark, spawnanimations, spellbound_weapons_mr, supermartijn642configlib, tool_trims, toughasnails, trade_cycling, travelersbackpack, travelerstitles, watut, xaerominimap, xaeroworldmap, yungsapi]
+[21Dec2024 19:30:47.448] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with channels [fallingtree:main, forge:channel_registration, forge:handshake, forge:login, geckolib:main, glitchcore:main, hardcorerevival:network, ping-wheel-c2s:ping-location, ping-wheel-c2s:update-channel, ping-wheel-s2c:ping-location, sereneseasons:main, smallships:channel, supermartijn642configlib:sync_configs, toughasnails:main, trade_cycling:cycle_trades, travelersbackpack:network, watut:watut_packets, xaerominimap:main, xaeroworldmap:main]
+[21Dec2024 19:30:47.448] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ping-wheel-c2s:ping-location' : Version test of 'PRESENT 0' from client : ACCEPTED
+[21Dec2024 19:30:47.448] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'hardcorerevival:network' : Version test of 'PRESENT 0' from client : ACCEPTED
+[21Dec2024 19:30:47.448] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'supermartijn642configlib:sync_configs' : Version test of 'PRESENT 46671486' from client : ACCEPTED
+[21Dec2024 19:30:47.448] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ping-wheel-s2c:ping-location' : Version test of 'PRESENT 0' from client : ACCEPTED
+[21Dec2024 19:30:47.448] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Version test of 'PRESENT 0' from client : ACCEPTED
+[21Dec2024 19:30:47.448] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Version test of 'PRESENT 0' from client : ACCEPTED
+[21Dec2024 19:30:47.448] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Version test of 'PRESENT 0' from client : ACCEPTED
+[21Dec2024 19:30:47.448] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ping-wheel-c2s:update-channel' : Version test of 'PRESENT 0' from client : ACCEPTED
+[21Dec2024 19:30:47.448] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of 'PRESENT 1' from client : ACCEPTED
+[21Dec2024 19:30:47.448] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'smallships:channel' : Version test of 'PRESENT 0' from client : ACCEPTED
+[21Dec2024 19:30:47.448] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'glitchcore:main' : Version test of 'PRESENT 0' from client : ACCEPTED
+[21Dec2024 19:30:47.448] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'watut:watut_packets' : Version test of 'PRESENT 0' from client : ACCEPTED
+[21Dec2024 19:30:47.448] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sereneseasons:main' : Version test of 'PRESENT 0' from client : ACCEPTED
+[21Dec2024 19:30:47.448] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'trade_cycling:cycle_trades' : Version test of 'PRESENT 0' from client : ACCEPTED
+[21Dec2024 19:30:47.448] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fallingtree:main' : Version test of 'PRESENT 0' from client : ACCEPTED
+[21Dec2024 19:30:47.448] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'travelersbackpack:network' : Version test of 'PRESENT 1' from client : ACCEPTED
+[21Dec2024 19:30:47.448] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Version test of 'PRESENT 1' from client : ACCEPTED
+[21Dec2024 19:30:47.448] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'toughasnails:main' : Version test of 'PRESENT 0' from client : ACCEPTED
+[21Dec2024 19:30:47.448] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of 'PRESENT 1' from client : ACCEPTED
+[21Dec2024 19:30:47.448] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[21Dec2024 19:30:47.530] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 0 from client
+[21Dec2024 19:30:47.619] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 1 from client
+[21Dec2024 19:30:47.703] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 2 from client
+[21Dec2024 19:30:47.872] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 3 from client
+[21Dec2024 19:30:47.958] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 4 from client
+[21Dec2024 19:30:48.040] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 5 from client
+[21Dec2024 19:30:48.212] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 6 from client
+[21Dec2024 19:30:48.298] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 7 from client
+[21Dec2024 19:30:48.381] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 8 from client
+[21Dec2024 19:30:48.467] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 9 from client
+[21Dec2024 19:30:48.553] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 10 from client
+[21Dec2024 19:30:48.636] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 11 from client
+[21Dec2024 19:30:48.806] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 12 from client
+[21Dec2024 19:30:48.889] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 13 from client
+[21Dec2024 19:30:48.975] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 14 from client
+[21Dec2024 19:30:49.060] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 15 from client
+[21Dec2024 19:30:49.143] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 16 from client
+[21Dec2024 19:30:49.226] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 17 from client
+[21Dec2024 19:30:49.310] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 18 from client
+[21Dec2024 19:30:49.788] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 19 from client
+[21Dec2024 19:30:50.593] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: oscarbigw[/127.167.240.13:39225] logged in with entity id 24921 at (-619.9800274370301, -27.07840000152588, -258.344649510051)
+[21Dec2024 19:30:50.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw joined the game
+[21Dec2024 19:30:50.746] [Server thread/INFO] [ping-wheel/]: Channel update: oscarbigw -> default
+[21Dec2024 19:30:59.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 19:30:59.360] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 19:31:03.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Teleported oscarbigw to Darielo_XD]
+[21Dec2024 19:35:59.312] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 19:35:59.317] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 19:40:26.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu]]
+[21Dec2024 19:40:27.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 4)]
+[21Dec2024 19:40:29.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 61)]
+[21Dec2024 19:40:40.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 20049)]
+[21Dec2024 19:40:47.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: oscarbigw moved wrongly!

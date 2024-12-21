@@ -510,3 +510,12 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [21Dec2024 19:22:34.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.not_rescued_in_time
 [21Dec2024 19:24:58.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Darielo_XD> www
 [21Dec2024 19:25:04.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Darielo_XD> oscar mmg
+[21Dec2024 19:30:50.593] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: oscarbigw[/127.167.240.13:39225] logged in with entity id 24921 at (-619.9800274370301, -27.07840000152588, -258.344649510051)
+[21Dec2024 19:30:50.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw joined the game
+[21Dec2024 19:30:50.746] [Server thread/INFO] [ping-wheel/]: Channel update: oscarbigw -> default
+[21Dec2024 19:31:03.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Teleported oscarbigw to Darielo_XD]
+[21Dec2024 19:40:26.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu]]
+[21Dec2024 19:40:27.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 4)]
+[21Dec2024 19:40:29.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 61)]
+[21Dec2024 19:40:40.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Triggered [svm_ep.menu] (set value to 20049)]
+[21Dec2024 19:40:47.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: oscarbigw moved wrongly!

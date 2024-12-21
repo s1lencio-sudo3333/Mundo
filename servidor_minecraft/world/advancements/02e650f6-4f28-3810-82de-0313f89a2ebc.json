@@ -40,7 +40,9 @@
       "minecraft:cold_ocean": "2024-12-21 19:23:13 +0000",
       "minecraft:forest": "2024-12-21 19:24:43 +0000",
       "minecraft:taiga": "2024-12-21 18:34:55 +0000",
+      "minecraft:sparse_jungle": "2024-12-21 19:29:04 +0000",
       "minecraft:river": "2024-12-21 19:25:47 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-21 19:28:55 +0000",
       "minecraft:snowy_plains": "2024-12-21 06:46:54 +0000",
       "minecraft:stony_shore": "2024-12-21 18:36:45 +0000",
       "minecraft:lush_caves": "2024-12-21 18:43:53 +0000",
@@ -48,6 +50,7 @@
       "minecraft:deep_cold_ocean": "2024-12-21 19:24:09 +0000",
       "minecraft:frozen_ocean": "2024-12-21 19:18:34 +0000",
       "minecraft:frozen_river": "2024-12-21 18:34:17 +0000",
+      "minecraft:ocean": "2024-12-21 19:26:24 +0000",
       "minecraft:grove": "2024-12-21 18:48:46 +0000",
       "minecraft:snowy_beach": "2024-12-21 19:18:26 +0000",
       "minecraft:plains": "2024-12-21 19:24:44 +0000"
@@ -2082,9 +2085,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-21 19:29:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-21 19:10:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-21 19:28:02 +0000"
     },
     "done": true
   },
@@ -2109,6 +2124,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-21 19:10:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-12-21 19:35:20 +0000"
     },
     "done": true
   },
@@ -2292,6 +2313,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-21 19:35:20 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/lapis": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-21 19:10:17 +0000"
@@ -2307,6 +2334,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-21 19:10:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-21 19:28:02 +0000"
     },
     "done": true
   },
@@ -2331,6 +2364,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-21 19:10:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-21 19:29:41 +0000"
     },
     "done": true
   },
