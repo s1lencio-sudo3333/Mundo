@@ -494,3 +494,29 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [21Dec2024 17:38:29.882] [Server thread/INFO] [ping-wheel/]: Channel update: Darielo_XD -> default
 [21Dec2024 17:38:41.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
 [21Dec2024 17:39:00.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[21Dec2024 17:39:46.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw has made the advancement [Paradise!]
+[21Dec2024 17:39:49.221] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[21Dec2024 17:39:51.639] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5128ms or 102 ticks behind
+[21Dec2024 17:39:52.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD has made the advancement [Paradise!]
+[21Dec2024 17:39:53.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[21Dec2024 17:40:24.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw died
+[21Dec2024 17:40:44.403] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2091ms or 41 ticks behind
+[21Dec2024 17:40:50.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[21Dec2024 17:42:45.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw has made the advancement [Ohayo!]
+[21Dec2024 17:42:50.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD has made the advancement [Ohayo!]
+[21Dec2024 17:42:57.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD has reached the goal [Cheerful!]
+[21Dec2024 17:43:08.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw has reached the goal [Cheerful!]
+[21Dec2024 17:45:51.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[21Dec2024 17:46:35.093] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darielo_XD lost connection: Disconnected
+[21Dec2024 17:46:35.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD left the game
+[21Dec2024 17:46:35.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[21Dec2024 17:47:35.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw died
+[21Dec2024 17:47:48.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.not_rescued_in_time
+[21Dec2024 17:48:21.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made oscarbigw a server operator
+[21Dec2024 17:48:46.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Set own game mode to Creative Mode]
+[21Dec2024 17:48:48.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Teleported oscarbigw to 198.500000, 51.500000, 133.500000]
+[21Dec2024 17:48:52.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Set own game mode to Survival Mode]
+[21Dec2024 17:48:58.247] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darielo_XD[/127.31.182.140:59953] logged in with entity id 11647 at (156.92122748467278, 71.0, -142.57413120858212)
+[21Dec2024 17:48:58.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD joined the game
+[21Dec2024 17:48:58.395] [Server thread/INFO] [ping-wheel/]: Channel update: Darielo_XD -> default
+[21Dec2024 17:49:04.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Set own game mode to Creative Mode]
