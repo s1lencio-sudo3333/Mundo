@@ -534,3 +534,14 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [21Dec2024 20:07:57.489] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darielo_XD[/127.31.182.140:35393] logged in with entity id 42027 at (-2546.5277917611124, 63.085764312744146, 3916.373155995892)
 [21Dec2024 20:07:57.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD joined the game
 [21Dec2024 20:07:57.719] [Server thread/INFO] [ping-wheel/]: Channel update: Darielo_XD -> default
+[21Dec2024 20:15:03.941] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=203, y=48, z=159}
+[21Dec2024 20:23:43.060] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darielo_XD lost connection: Disconnected
+[21Dec2024 20:23:43.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD left the game
+[21Dec2024 20:23:54.812] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darielo_XD[/127.31.182.140:36891] logged in with entity id 52757 at (-5026.5, 63.5625, 6013.5)
+[21Dec2024 20:23:54.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD joined the game
+[21Dec2024 20:23:54.986] [Server thread/INFO] [ping-wheel/]: Channel update: Darielo_XD -> default
+[21Dec2024 20:30:38.254] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darielo_XD lost connection: Disconnected
+[21Dec2024 20:30:38.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD left the game
+[21Dec2024 20:31:05.061] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darielo_XD[/127.31.182.140:35031] logged in with entity id 57337 at (-5483.325706811955, 63.08576431274413, 6995.828571128429)
+[21Dec2024 20:31:05.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD joined the game
+[21Dec2024 20:31:05.250] [Server thread/INFO] [ping-wheel/]: Channel update: Darielo_XD -> default
