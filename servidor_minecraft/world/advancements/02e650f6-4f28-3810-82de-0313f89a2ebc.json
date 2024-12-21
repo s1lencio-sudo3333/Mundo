@@ -37,13 +37,20 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:frozen_river": "2024-12-21 18:34:17 +0000",
+      "minecraft:cold_ocean": "2024-12-21 19:23:13 +0000",
+      "minecraft:forest": "2024-12-21 19:24:43 +0000",
       "minecraft:taiga": "2024-12-21 18:34:55 +0000",
-      "minecraft:grove": "2024-12-21 18:48:46 +0000",
+      "minecraft:river": "2024-12-21 19:25:47 +0000",
       "minecraft:snowy_plains": "2024-12-21 06:46:54 +0000",
       "minecraft:stony_shore": "2024-12-21 18:36:45 +0000",
       "minecraft:lush_caves": "2024-12-21 18:43:53 +0000",
-      "minecraft:snowy_taiga": "2024-12-21 06:46:13 +0000"
+      "minecraft:snowy_taiga": "2024-12-21 06:46:13 +0000",
+      "minecraft:deep_cold_ocean": "2024-12-21 19:24:09 +0000",
+      "minecraft:frozen_ocean": "2024-12-21 19:18:34 +0000",
+      "minecraft:frozen_river": "2024-12-21 18:34:17 +0000",
+      "minecraft:grove": "2024-12-21 18:48:46 +0000",
+      "minecraft:snowy_beach": "2024-12-21 19:18:26 +0000",
+      "minecraft:plains": "2024-12-21 19:24:44 +0000"
     },
     "done": false
   },
@@ -2051,6 +2058,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-21 19:24:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2024-12-21 19:13:23 +0000"
@@ -2072,6 +2085,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-21 19:10:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-21 19:24:34 +0000"
     },
     "done": true
   },
@@ -2099,6 +2118,12 @@
     },
     "done": true
   },
+  "svm_ep:flora_visited_biome/forest": {
+    "criteria": {
+      "requirement": "2024-12-21 19:24:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wayfinder_armor_trim_smithing_template": {
     "criteria": {
       "has_wayfinder_armor_trim_smithing_template": "2024-12-21 19:13:20 +0000"
@@ -2117,9 +2142,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-21 19:23:04 +0000"
+    },
+    "done": true
+  },
   "betterarcheology:loot_vase_broken": {
     "criteria": {
       "criteria": "2024-12-21 19:13:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-21 19:23:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-21 19:23:04 +0000"
     },
     "done": true
   },
@@ -2135,9 +2178,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-21 19:23:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-21 19:23:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-21 19:23:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-21 19:23:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wayfinder_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2024-12-21 19:13:20 +0000"
+    },
+    "done": true
+  },
+  "svm_ep:flora_visited_biome/plains": {
+    "criteria": {
+      "requirement": "2024-12-21 19:24:44 +0000"
     },
     "done": true
   },
@@ -2147,9 +2220,33 @@
     },
     "done": true
   },
+  "svm_ep:flora_visited_biome/ocean": {
+    "criteria": {
+      "requirement": "2024-12-21 19:18:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-21 19:24:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-21 19:23:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-21 19:10:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-12-21 19:23:04 +0000"
     },
     "done": true
   },
