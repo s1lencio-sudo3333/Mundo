@@ -4859,3 +4859,51 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [22Dec2024 16:02:56.428] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-3775, y=78, z=8951}) doesn't have enough leaves around top most log
 [22Dec2024 16:06:08.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darielo_XD: Triggered [svm_ep.menu] (set value to 4)]
 [22Dec2024 16:06:09.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darielo_XD: Triggered [svm_ep.menu] (set value to 59)]
+[22Dec2024 16:06:30.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darielo_XD: Triggered [svm_ep.menu] (set value to 20042)]
+[22Dec2024 16:06:59.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darielo_XD: Triggered [svm_ep.menu] (set value to 10001)]
+[22Dec2024 16:07:00.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darielo_XD: Triggered [svm_ep.menu] (set value to 10001)]
+[22Dec2024 16:07:03.656] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 16:07:03.671] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 16:07:10.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darielo_XD: Triggered [svm_ep.menu] (set value to 10002)]
+[22Dec2024 16:07:15.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darielo_XD: Triggered [svm_ep.menu] (set value to 10003)]
+[22Dec2024 16:07:21.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darielo_XD: Triggered [svm_ep.menu] (set value to 10004)]
+[22Dec2024 16:07:25.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darielo_XD: Triggered [svm_ep.menu] (set value to 10008)]
+[22Dec2024 16:07:32.086] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 16:07:54.865] [Server thread/INFO] [ping-wheel/]: Channel update: oscarbigw -> default
+[22Dec2024 16:07:58.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darielo_XD: Triggered [svm_ep.menu] (set value to 10007)]
+[22Dec2024 16:09:08.157] [Worker-Main-2/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[22Dec2024 16:09:08.158] [Worker-Main-2/DEBUG] [mixin/]: yungsapi.mixins.json:BeardifierMixin: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[22Dec2024 16:09:08.179] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[22Dec2024 16:09:08.180] [Worker-Main-2/DEBUG] [mixin/]: yungsapi.mixins.json:accessor.BeardifierAccessor: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[22Dec2024 16:12:03.617] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 16:12:03.623] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 16:12:36.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: oscarbigw moved too quickly! -14.594067119013516,1.8648477315342404,11.394049442723372
+[22Dec2024 16:12:38.329] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/entity/raid/Raid
+[22Dec2024 16:13:09.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Set own game mode to Spectator Mode]
+[22Dec2024 16:13:34.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw has made the advancement [Minecraft: Trial(s) Edition]
+[22Dec2024 16:13:35.464] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1337, y=9, z=5519} but found not block entity block Block{minecraft:water}[level=1] at location
+[22Dec2024 16:13:35.465] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=1337, y=9, z=5519}
+[22Dec2024 16:14:15.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Set own game mode to Survival Mode]
+[22Dec2024 16:14:25.359] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: oscarbigw moved wrongly!
+[22Dec2024 16:17:03.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 16:17:03.601] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 16:17:20.409] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-3775, y=77, z=8951}) doesn't have enough leaves around top most log
+[22Dec2024 16:17:21.413] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-3775, y=79, z=8951}) doesn't have enough leaves around top most log
+[22Dec2024 16:20:40.904] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-3771, y=77, z=8951}) doesn't have enough leaves around top most log
+[22Dec2024 16:20:41.706] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-3771, y=78, z=8951}) doesn't have enough leaves around top most log
+[22Dec2024 16:20:42.659] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-3771, y=79, z=8951}) doesn't have enough leaves around top most log
+[22Dec2024 16:20:43.563] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-3771, y=80, z=8951}) doesn't have enough leaves around top most log
+[22Dec2024 16:22:03.668] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 16:22:03.676] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 16:22:55.136] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 16:23:02.285] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 16:23:08.187] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 16:23:15.286] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 16:23:20.337] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 16:23:27.537] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 16:23:33.642] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 16:23:33.987] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 16:23:34.358] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 16:24:23.598] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 16:24:25.385] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 16:24:30.542] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
