@@ -666,3 +666,214 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [22Dec2024 17:37:19.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw was slain by Skeleton
 [22Dec2024 17:37:25.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
 [22Dec2024 17:37:34.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Removed every effect from oscarbigw]
+[22Dec2024 17:37:52.845] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:37:53.544] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:37:55.539] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:38:58.616] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:38:58.934] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:38:59.602] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:39:00.038] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:39:00.462] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:39:01.612] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:40:55.577] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:40:55.942] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:40:56.480] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:40:56.790] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:40:57.123] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:40:57.380] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:41:06.393] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:41:06.620] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:41:06.999] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:41:07.296] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:41:07.605] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:41:07.905] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:41:08.211] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:41:15.572] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:41:15.984] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:41:16.347] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:41:17.921] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:41:18.501] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:41:49.632] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:41:49.995] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:41:50.308] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:41:50.856] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:41:51.196] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:41:51.884] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:41:55.386] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-481, y=-50, z=8176} BlockPos{x=-480, y=-51, z=8176}
+[22Dec2024 17:41:57.085] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-480, y=-50, z=8180} BlockPos{x=-480, y=-51, z=8181}
+[22Dec2024 17:41:57.824] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:41:58.192] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:42:13.491] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:42:13.793] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:42:14.047] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:42:14.331] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:42:14.625] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:42:15.016] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:42:15.341] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:42:16.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD was slain by Vindicator
+[22Dec2024 17:42:23.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo was killed by magic
+[22Dec2024 17:42:24.253] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:42:24.688] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:42:24.933] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:42:25.226] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:42:25.492] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:42:25.818] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:42:26.133] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:42:26.423] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:42:26.693] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:42:27.005] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:42:27.344] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:42:27.670] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:42:28.060] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:42:28.307] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:42:28.633] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:42:29.081] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:42:29.364] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:42:29.704] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:42:30.043] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:42:30.349] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:42:30.640] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:42:30.928] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:42:31.206] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:42:31.584] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:42:31.862] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:42:51.506] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:42:51.866] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:42:52.402] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:43:02.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:43:03.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[22Dec2024 17:43:10.932] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:43:20.354] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[22Dec2024 17:43:26.423] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:43:27.760] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:43:28.309] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:43:30.227] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:43:31.151] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:43:31.480] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:43:31.903] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:43:32.315] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:43:32.812] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:43:35.706] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: polloxsolo lost connection: Disconnected
+[22Dec2024 17:43:35.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo left the game
+[22Dec2024 17:43:40.987] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:43:44.438] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:43:49.139] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:43:49.573] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:43:50.388] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:43:59.035] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: polloxsolo[/127.127.14.13:36491] logged in with entity id 57203 at (-482.7407683658274, -44.0, 8163.300000011921)
+[22Dec2024 17:43:59.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo joined the game
+[22Dec2024 17:43:59.162] [Server thread/INFO] [ping-wheel/]: Channel update: polloxsolo -> default
+[22Dec2024 17:44:04.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:44:05.710] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: polloxsolo lost connection: Disconnected
+[22Dec2024 17:44:05.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo left the game
+[22Dec2024 17:44:06.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[22Dec2024 17:44:24.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:44:25.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[22Dec2024 17:44:28.986] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:44:29.286] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:44:29.636] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:44:30.186] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:44:30.536] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:44:39.136] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:44:39.488] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:44:39.786] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:44:40.136] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:45:13.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:45:15.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[22Dec2024 17:45:52.829] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: polloxsolo[/127.127.14.13:52719] logged in with entity id 57846 at (-482.7407683658274, -44.0, 8163.300000011921)
+[22Dec2024 17:45:52.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo joined the game
+[22Dec2024 17:45:53.010] [Server thread/INFO] [ping-wheel/]: Channel update: polloxsolo -> default
+[22Dec2024 17:45:58.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:00.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[22Dec2024 17:46:05.365] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: polloxsolo lost connection: Disconnected
+[22Dec2024 17:46:05.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo left the game
+[22Dec2024 17:46:15.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:18.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[22Dec2024 17:46:20.688] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:46:21.037] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:46:22.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:22.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD walked into fire while fighting Vindicator
+[22Dec2024 17:46:24.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:24.806] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-482, y=-52, z=8186} BlockPos{x=-481, y=-50, z=8182}
+[22Dec2024 17:46:25.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD went up in flames
+[22Dec2024 17:46:26.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:27.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD walked into fire while fighting Zombie
+[22Dec2024 17:46:27.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:29.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:29.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:29.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:29.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:29.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:30.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:30.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:30.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:30.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[22Dec2024 17:46:30.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:31.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:31.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:31.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:31.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:32.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:32.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:32.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:32.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:32.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[22Dec2024 17:46:33.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:33.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:33.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:33.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:34.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:34.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:34.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:34.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:34.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:35.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:35.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:35.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:36.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:36.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:36.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:36.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:37.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:37.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:37.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:37.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:38.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:38.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:38.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:38.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:39.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:39.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:39.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:39.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:40.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:40.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:40.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:40.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:41.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:41.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:41.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:41.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:42.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:42.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:42.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:42.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:43.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:43.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:43.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:43.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:44.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:44.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:46:45.037] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:47:01.038] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: polloxsolo[/127.127.14.13:54635] logged in with entity id 58256 at (-482.7407683658274, -44.0, 8163.300000011921)
+[22Dec2024 17:47:01.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo joined the game
+[22Dec2024 17:47:01.189] [Server thread/INFO] [ping-wheel/]: Channel update: polloxsolo -> default
+[22Dec2024 17:47:02.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:47:03.254] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:47:03.785] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:47:44.890] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:47:45.168] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:47:45.424] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:47:46.390] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/54601, l='ServerLevel[world]', x=911.39, y=64.56, z=5469.70] died, message: 'Villager was slain by Zombie'
+[22Dec2024 17:47:47.097] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:47:47.374] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
