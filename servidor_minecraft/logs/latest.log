@@ -468,3 +468,7 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [22Dec2024 16:24:23.598] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
 [22Dec2024 16:24:25.385] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
 [22Dec2024 16:24:30.542] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 16:28:07.133] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=202, y=47, z=211}
+[22Dec2024 16:28:55.065] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=203, y=48, z=159}
+[22Dec2024 16:29:12.409] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: oscarbigw lost connection: Disconnected
+[22Dec2024 16:29:12.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw left the game
