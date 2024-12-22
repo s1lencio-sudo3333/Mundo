@@ -5024,3 +5024,240 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [22Dec2024 17:17:07.601] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: oscarbigw[/127.167.240.13:56861] logged in with entity id 36297 at (1391.0312963328772, 20.49520087700591, 5506.466680289334)
 [22Dec2024 17:17:07.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw joined the game
 [22Dec2024 17:17:08.128] [Server thread/INFO] [ping-wheel/]: Channel update: oscarbigw -> default
+[22Dec2024 17:18:30.422] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with modlist [advancednetherite, balm, betteradvancements, betterarcheology, bushierflowers, cakechomps, collective, continents, coroutil, cpm, customskinloader, default_skill_trees, display_case, dynamiclights, easy_mob_farm, explorations, fallingtree, forge, geckolib, glitchcore, hardcorerevival, healingcampfire, immediatelyfast, incendium, infinitetrading, inventoryprofilesnext, knightlib, knightquest, kotlinforforge, kuma_api, libipn, mcwlights, minecraft, mixinextras, moremobs, mr_coffwallclimb, mr_dungeons_andtaverns, mr_health_indicator, mr_musical_instrumentspack, mr_serversleep, mr_svm_powers, notenoughanimations, pingwheel, sereneseasons, smallships, spark, spawnanimations, spellbound_weapons_mr, supermartijn642configlib, tlskincape, tool_trims, toughasnails, trade_cycling, travelersbackpack, travelerstitles, watut, xaerominimap, xaeroworldmap, yungsapi]
+[22Dec2024 17:18:30.513] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with channels [fallingtree:main, forge:channel_registration, forge:handshake, forge:login, geckolib:main, glitchcore:main, hardcorerevival:network, ping-wheel-c2s:ping-location, ping-wheel-c2s:update-channel, ping-wheel-s2c:ping-location, sereneseasons:main, smallships:channel, supermartijn642configlib:sync_configs, toughasnails:main, trade_cycling:cycle_trades, travelersbackpack:network, watut:watut_packets, xaerominimap:main, xaeroworldmap:main]
+[22Dec2024 17:18:30.513] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ping-wheel-c2s:ping-location' : Version test of 'PRESENT 0' from client : ACCEPTED
+[22Dec2024 17:18:30.513] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'hardcorerevival:network' : Version test of 'PRESENT 0' from client : ACCEPTED
+[22Dec2024 17:18:30.513] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'supermartijn642configlib:sync_configs' : Version test of 'PRESENT 46671486' from client : ACCEPTED
+[22Dec2024 17:18:30.513] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ping-wheel-s2c:ping-location' : Version test of 'PRESENT 0' from client : ACCEPTED
+[22Dec2024 17:18:30.513] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Version test of 'PRESENT 0' from client : ACCEPTED
+[22Dec2024 17:18:30.513] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Version test of 'PRESENT 0' from client : ACCEPTED
+[22Dec2024 17:18:30.513] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Version test of 'PRESENT 0' from client : ACCEPTED
+[22Dec2024 17:18:30.513] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ping-wheel-c2s:update-channel' : Version test of 'PRESENT 0' from client : ACCEPTED
+[22Dec2024 17:18:30.513] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of 'PRESENT 1' from client : ACCEPTED
+[22Dec2024 17:18:30.513] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'smallships:channel' : Version test of 'PRESENT 0' from client : ACCEPTED
+[22Dec2024 17:18:30.513] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'glitchcore:main' : Version test of 'PRESENT 0' from client : ACCEPTED
+[22Dec2024 17:18:30.514] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'watut:watut_packets' : Version test of 'PRESENT 0' from client : ACCEPTED
+[22Dec2024 17:18:30.514] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sereneseasons:main' : Version test of 'PRESENT 0' from client : ACCEPTED
+[22Dec2024 17:18:30.514] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'trade_cycling:cycle_trades' : Version test of 'PRESENT 0' from client : ACCEPTED
+[22Dec2024 17:18:30.514] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fallingtree:main' : Version test of 'PRESENT 0' from client : ACCEPTED
+[22Dec2024 17:18:30.514] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'travelersbackpack:network' : Version test of 'PRESENT 1' from client : ACCEPTED
+[22Dec2024 17:18:30.514] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Version test of 'PRESENT 1' from client : ACCEPTED
+[22Dec2024 17:18:30.514] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'toughasnails:main' : Version test of 'PRESENT 0' from client : ACCEPTED
+[22Dec2024 17:18:30.514] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of 'PRESENT 1' from client : ACCEPTED
+[22Dec2024 17:18:30.514] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[22Dec2024 17:18:30.597] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 0 from client
+[22Dec2024 17:18:30.681] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 1 from client
+[22Dec2024 17:18:30.761] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 2 from client
+[22Dec2024 17:18:30.931] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 3 from client
+[22Dec2024 17:18:31.012] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 4 from client
+[22Dec2024 17:18:31.092] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 5 from client
+[22Dec2024 17:18:31.257] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 6 from client
+[22Dec2024 17:18:31.337] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 7 from client
+[22Dec2024 17:18:31.416] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 8 from client
+[22Dec2024 17:18:31.495] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 9 from client
+[22Dec2024 17:18:31.574] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 10 from client
+[22Dec2024 17:18:31.654] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 11 from client
+[22Dec2024 17:18:31.817] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 12 from client
+[22Dec2024 17:18:31.896] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 13 from client
+[22Dec2024 17:18:32.007] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 14 from client
+[22Dec2024 17:18:32.087] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 15 from client
+[22Dec2024 17:18:32.166] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 16 from client
+[22Dec2024 17:18:32.245] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 17 from client
+[22Dec2024 17:18:32.325] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 18 from client
+[22Dec2024 17:18:32.845] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 19 from client
+[22Dec2024 17:18:34.093] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darielo_XD[/127.31.182.140:41623] logged in with entity id 37059 at (-497.27434092268646, -43.0, 8139.7063464765115)
+[22Dec2024 17:18:34.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD joined the game
+[22Dec2024 17:18:34.987] [Server thread/INFO] [ping-wheel/]: Channel update: Darielo_XD -> default
+[22Dec2024 17:18:42.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:18:44.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[22Dec2024 17:18:51.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:18:58.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[22Dec2024 17:19:12.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:19:51.135] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:19:51.485] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:19:56.185] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:19:56.488] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:19:56.785] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:20:00.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[22Dec2024 17:20:10.935] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:20:11.286] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:20:11.635] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:20:14.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:20:14.535] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:20:15.135] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:20:15.498] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:20:16.034] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:20:16.385] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:20:18.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[22Dec2024 17:20:28.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:22:03.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 17:22:03.595] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 17:25:17.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD suffocated in a wall while fighting Zombie
+[22Dec2024 17:25:32.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:25:33.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[22Dec2024 17:25:44.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:25:54.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[22Dec2024 17:26:04.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:26:08.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[22Dec2024 17:26:22.236] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:26:22.536] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:26:22.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:26:22.836] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:26:23.288] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:26:23.588] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:26:23.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[22Dec2024 17:26:54.040] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:26:54.454] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:26:54.938] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:26:55.295] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:26:55.739] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:26:56.087] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:26:56.489] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:26:56.937] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:26:57.587] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:26:57.987] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:27:02.187] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:27:02.585] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:27:02.985] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:27:03.575] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 17:27:03.580] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 17:27:13.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:27:22.541] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:27:22.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[22Dec2024 17:27:22.840] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:27:24.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw died
+[22Dec2024 17:27:29.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:27:34.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Removed every effect from oscarbigw]
+[22Dec2024 17:28:11.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Darielo_XD> revive
+[22Dec2024 17:28:16.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:28:19.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[22Dec2024 17:28:23.792] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:28:23.993] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:28:24.386] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:28:24.640] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:28:24.990] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:28:25.286] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:28:25.586] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:28:25.935] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:28:27.185] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:28:27.539] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:28:32.386] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:28:32.736] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:28:36.488] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:28:38.436] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:28:38.885] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:28:39.238] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:28:39.836] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:28:40.186] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:28:40.835] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:28:41.285] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:28:41.687] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:28:44.435] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:28:44.785] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:28:45.186] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:28:45.585] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:28:45.938] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:28:46.338] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:28:48.236] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:28:52.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:29:22.636] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:29:26.086] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:29:35.152] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with modlist [advancednetherite, balm, betteradvancements, betterarcheology, bushierflowers, cakechomps, collective, continents, coroutil, cpm, customskinloader, default_skill_trees, display_case, dynamiclights, easy_mob_farm, explorations, fallingtree, forge, geckolib, glitchcore, hardcorerevival, healingcampfire, immediatelyfast, incendium, infinitetrading, inventoryprofilesnext, knightlib, knightquest, kotlinforforge, kuma_api, libipn, mcwlights, minecraft, mixinextras, moremobs, mr_coffwallclimb, mr_dungeons_andtaverns, mr_health_indicator, mr_musical_instrumentspack, mr_serversleep, mr_svm_powers, notenoughanimations, pingwheel, sereneseasons, smallships, spark, spawnanimations, spellbound_weapons_mr, supermartijn642configlib, tlskincape, tool_trims, toughasnails, trade_cycling, travelersbackpack, travelerstitles, watut, xaerominimap, xaeroworldmap, yungsapi]
+[22Dec2024 17:29:35.255] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with channels [fallingtree:main, forge:channel_registration, forge:handshake, forge:login, geckolib:main, glitchcore:main, hardcorerevival:network, ping-wheel-c2s:ping-location, ping-wheel-c2s:update-channel, ping-wheel-s2c:ping-location, sereneseasons:main, smallships:channel, supermartijn642configlib:sync_configs, toughasnails:main, trade_cycling:cycle_trades, travelersbackpack:network, watut:watut_packets, xaerominimap:main, xaeroworldmap:main]
+[22Dec2024 17:29:35.255] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ping-wheel-c2s:ping-location' : Version test of 'PRESENT 0' from client : ACCEPTED
+[22Dec2024 17:29:35.255] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'hardcorerevival:network' : Version test of 'PRESENT 0' from client : ACCEPTED
+[22Dec2024 17:29:35.255] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'supermartijn642configlib:sync_configs' : Version test of 'PRESENT 46671486' from client : ACCEPTED
+[22Dec2024 17:29:35.256] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ping-wheel-s2c:ping-location' : Version test of 'PRESENT 0' from client : ACCEPTED
+[22Dec2024 17:29:35.256] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Version test of 'PRESENT 0' from client : ACCEPTED
+[22Dec2024 17:29:35.256] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Version test of 'PRESENT 0' from client : ACCEPTED
+[22Dec2024 17:29:35.256] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Version test of 'PRESENT 0' from client : ACCEPTED
+[22Dec2024 17:29:35.256] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ping-wheel-c2s:update-channel' : Version test of 'PRESENT 0' from client : ACCEPTED
+[22Dec2024 17:29:35.256] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of 'PRESENT 1' from client : ACCEPTED
+[22Dec2024 17:29:35.256] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'smallships:channel' : Version test of 'PRESENT 0' from client : ACCEPTED
+[22Dec2024 17:29:35.256] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'glitchcore:main' : Version test of 'PRESENT 0' from client : ACCEPTED
+[22Dec2024 17:29:35.256] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'watut:watut_packets' : Version test of 'PRESENT 0' from client : ACCEPTED
+[22Dec2024 17:29:35.256] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sereneseasons:main' : Version test of 'PRESENT 0' from client : ACCEPTED
+[22Dec2024 17:29:35.256] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'trade_cycling:cycle_trades' : Version test of 'PRESENT 0' from client : ACCEPTED
+[22Dec2024 17:29:35.256] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fallingtree:main' : Version test of 'PRESENT 0' from client : ACCEPTED
+[22Dec2024 17:29:35.256] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'travelersbackpack:network' : Version test of 'PRESENT 1' from client : ACCEPTED
+[22Dec2024 17:29:35.256] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Version test of 'PRESENT 1' from client : ACCEPTED
+[22Dec2024 17:29:35.256] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'toughasnails:main' : Version test of 'PRESENT 0' from client : ACCEPTED
+[22Dec2024 17:29:35.256] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of 'PRESENT 1' from client : ACCEPTED
+[22Dec2024 17:29:35.256] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[22Dec2024 17:29:35.344] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 0 from client
+[22Dec2024 17:29:35.430] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 1 from client
+[22Dec2024 17:29:35.514] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 2 from client
+[22Dec2024 17:29:35.690] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 3 from client
+[22Dec2024 17:29:35.773] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 4 from client
+[22Dec2024 17:29:35.861] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 5 from client
+[22Dec2024 17:29:36.038] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 6 from client
+[22Dec2024 17:29:36.123] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 7 from client
+[22Dec2024 17:29:36.205] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 8 from client
+[22Dec2024 17:29:36.291] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 9 from client
+[22Dec2024 17:29:36.374] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 10 from client
+[22Dec2024 17:29:36.456] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 11 from client
+[22Dec2024 17:29:36.625] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 12 from client
+[22Dec2024 17:29:36.708] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 13 from client
+[22Dec2024 17:29:36.791] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 14 from client
+[22Dec2024 17:29:36.874] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 15 from client
+[22Dec2024 17:29:36.957] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 16 from client
+[22Dec2024 17:29:37.041] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 17 from client
+[22Dec2024 17:29:37.129] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 18 from client
+[22Dec2024 17:29:37.616] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 19 from client
+[22Dec2024 17:29:38.650] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: polloxsolo[/127.127.14.13:57285] logged in with entity id 45249 at (-3772.8009967163407, 72.0, 8983.334290815728)
+[22Dec2024 17:29:38.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo joined the game
+[22Dec2024 17:29:38.930] [Server thread/INFO] [ping-wheel/]: Channel update: polloxsolo -> default
+[22Dec2024 17:30:48.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darielo_XD: Triggered [svm_ep.menu] (set value to 4)]
+[22Dec2024 17:30:49.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darielo_XD: Triggered [svm_ep.menu] (set value to 59)]
+[22Dec2024 17:30:54.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darielo_XD: Triggered [svm_ep.menu] (set value to 20037)]
+[22Dec2024 17:31:00.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darielo_XD: Triggered [svm_ep.menu] (set value to 10002)]
+[22Dec2024 17:31:02.578] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[22Dec2024 17:31:15.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Teleported polloxsolo to Darielo_XD]
+[22Dec2024 17:31:41.560] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:31:41.870] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:31:42.217] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:31:42.464] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:31:42.764] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:31:43.178] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:31:46.724] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:31:46.991] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:31:47.266] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:32:05.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 17:32:05.630] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 17:33:00.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu]]
+[22Dec2024 17:33:07.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu] (set value to 6)]
+[22Dec2024 17:33:11.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu] (set value to 2005)]
+[22Dec2024 17:33:19.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu] (set value to 2005)]
+[22Dec2024 17:33:20.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu] (set value to 2005)]
+[22Dec2024 17:33:21.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu] (set value to 2005)]
+[22Dec2024 17:33:22.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu] (set value to 2005)]
+[22Dec2024 17:33:22.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu] (set value to 2005)]
+[22Dec2024 17:33:27.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu] (set value to 4)]
+[22Dec2024 17:33:28.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu] (set value to 53)]
+[22Dec2024 17:33:33.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu] (set value to 10001)]
+[22Dec2024 17:33:38.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu] (set value to 10001)]
+[22Dec2024 17:33:58.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu] (set value to 2000)]
+[22Dec2024 17:34:03.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu]]
+[22Dec2024 17:34:07.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu] (set value to 4)]
+[22Dec2024 17:34:09.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu] (set value to 53)]
+[22Dec2024 17:34:28.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu]]
+[22Dec2024 17:34:38.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu] (set value to 10)]
+[22Dec2024 17:34:44.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu] (set value to 10000)]
+[22Dec2024 17:34:46.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu] (set value to 10000)]
+[22Dec2024 17:34:47.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu] (set value to 10000)]
+[22Dec2024 17:34:51.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu] (set value to 19999)]
+[22Dec2024 17:35:10.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu] (set value to 4)]
+[22Dec2024 17:35:12.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu] (set value to 53)]
+[22Dec2024 17:35:14.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu] (set value to 10001)]
+[22Dec2024 17:35:29.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darielo_XD: Triggered [svm_ep.menu] (set value to 3)]
+[22Dec2024 17:35:47.666] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:35:48.013] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:35:48.872] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:35:49.322] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:36:02.200] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 17:37:05.723] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 17:37:05.727] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 17:37:19.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw was slain by Skeleton
+[22Dec2024 17:37:25.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 17:37:34.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Removed every effect from oscarbigw]
