@@ -38,29 +38,30 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2024-12-21 19:23:13 +0000",
-      "minecraft:beach": "2024-12-21 19:56:35 +0000",
       "minecraft:forest": "2024-12-21 19:24:43 +0000",
       "minecraft:taiga": "2024-12-21 18:34:55 +0000",
-      "minecraft:sparse_jungle": "2024-12-21 19:29:04 +0000",
       "minecraft:deep_ocean": "2024-12-21 20:05:31 +0000",
-      "minecraft:river": "2024-12-21 19:25:47 +0000",
-      "minecraft:lukewarm_ocean": "2024-12-21 19:28:55 +0000",
-      "minecraft:snowy_plains": "2024-12-21 06:46:54 +0000",
-      "minecraft:stony_shore": "2024-12-21 18:36:45 +0000",
       "minecraft:lush_caves": "2024-12-21 18:43:53 +0000",
-      "minecraft:snowy_taiga": "2024-12-21 06:46:13 +0000",
       "minecraft:deep_cold_ocean": "2024-12-21 19:24:09 +0000",
-      "minecraft:old_growth_birch_forest": "2024-12-21 20:07:37 +0000",
       "minecraft:frozen_ocean": "2024-12-21 19:18:34 +0000",
       "minecraft:frozen_river": "2024-12-21 18:34:17 +0000",
       "minecraft:ocean": "2024-12-21 19:26:24 +0000",
       "minecraft:jungle": "2024-12-21 19:44:59 +0000",
-      "minecraft:grove": "2024-12-21 18:48:46 +0000",
       "minecraft:birch_forest": "2024-12-21 20:07:02 +0000",
       "minecraft:snowy_beach": "2024-12-21 19:18:26 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-12-21 19:57:16 +0000",
+      "minecraft:beach": "2024-12-21 19:56:35 +0000",
+      "minecraft:sparse_jungle": "2024-12-21 19:29:04 +0000",
+      "minecraft:river": "2024-12-21 19:25:47 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-21 19:28:55 +0000",
+      "minecraft:snowy_plains": "2024-12-21 06:46:54 +0000",
+      "minecraft:stony_shore": "2024-12-21 18:36:45 +0000",
+      "minecraft:snowy_taiga": "2024-12-21 06:46:13 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-21 20:07:37 +0000",
+      "minecraft:grove": "2024-12-21 18:48:46 +0000",
+      "minecraft:meadow": "2024-12-22 04:23:54 +0000",
       "minecraft:savanna": "2024-12-21 20:02:14 +0000",
-      "minecraft:plains": "2024-12-21 19:24:44 +0000",
-      "minecraft:deep_lukewarm_ocean": "2024-12-21 19:57:16 +0000"
+      "minecraft:plains": "2024-12-21 19:24:44 +0000"
     },
     "done": false
   },
@@ -2704,79 +2705,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 20:47:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 20:47:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 20:47:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2024-12-21 20:48:28 +0000",
-      "log_spam_fixer": "2024-12-21 20:47:59 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 20:47:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 20:47:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 20:47:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 20:47:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 20:47:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 20:47:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 20:47:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 20:47:59 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/waxed_copper_grate": {
     "criteria": {
       "has_waxed_copper_block": "2024-12-21 20:40:09 +0000"
@@ -2792,18 +2720,6 @@
   "minecraft:recipes/building_blocks/waxed_cut_copper": {
     "criteria": {
       "has_waxed_copper_block": "2024-12-21 20:40:09 +0000"
-    },
-    "done": true
-  },
-  "svm_ep:storyline/get_power": {
-    "criteria": {
-      "requirement": "2024-12-21 20:42:17 +0000"
-    },
-    "done": true
-  },
-  "svm_ep:storyline/get_fire": {
-    "criteria": {
-      "requirement": "2024-12-21 20:42:17 +0000"
     },
     "done": true
   },
@@ -2842,6 +2758,319 @@
       "has_waxed_copper_block": "2024-12-21 20:40:09 +0000"
     },
     "done": true
+  },
+  "svm_ep:storyline/get_power": {
+    "criteria": {
+      "requirement": "2024-12-21 20:42:17 +0000"
+    },
+    "done": true
+  },
+  "svm_ep:storyline/get_fire": {
+    "criteria": {
+      "requirement": "2024-12-21 20:42:17 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm_template/tier0_mob_farm_template": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-22 04:06:33 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/copper_stuff": {
+    "criteria": {
+      "has_wood": "2024-12-22 04:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-22 04:06:33 +0000"
+    },
+    "done": true
+  },
+  "spellbound_weapons:recipe/thorn_blossom_diamond": {
+    "criteria": {
+      "2": "2024-12-22 04:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-22 04:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-22 04:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-22 04:06:33 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/tools/empty_copper_canteen": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-22 04:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-22 04:06:33 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/decorations/water_purifier": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-22 04:06:33 +0000"
+    },
+    "done": true
+  },
+  "spellbound_weapons:recipe/thorn_blossom": {
+    "criteria": {
+      "2": "2024-12-22 04:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-22 04:10:35 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/enchancement/luck_enhancement": {
+    "criteria": {
+      "has_emerald": "2024-12-22 04:10:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2024-12-22 04:10:35 +0000"
+    },
+    "done": true
+  },
+  "spellbound_weapons:recipe/windsweeper": {
+    "criteria": {
+      "2": "2024-12-22 04:10:35 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / c:gems/emerald]": "2024-12-22 04:10:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bolt_armor_trim_smithing_template": {
+    "criteria": {
+      "has_bolt_armor_trim_smithing_template": "2024-12-22 04:11:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bolt_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-22 04:11:27 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/enchancement/sheep_enhancement": {
+    "criteria": {
+      "has_shears": "2024-12-22 04:31:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 04:31:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 04:31:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 04:31:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 04:31:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 04:31:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 04:31:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 04:31:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 04:31:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 04:31:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2024-12-22 04:31:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 04:31:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 04:31:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 04:31:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2024-12-22 04:31:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 04:31:44 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm_template/tier3_mob_farm_template": {
+    "criteria": {
+      "has_glass": "2024-12-22 04:31:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 04:31:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 04:31:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 04:31:44 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-22 04:41:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-22 04:41:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-22 04:41:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2024-12-22 04:41:55 +0000",
+      "log_spam_fixer": "2024-12-22 04:41:54 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-22 04:41:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-22 04:41:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-22 04:41:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-22 04:41:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-22 04:41:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-22 04:41:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-22 04:41:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-22 04:41:54 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3955
 }
