@@ -518,3 +518,6 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [22Dec2024 17:04:44.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD was slain by Skeleton
 [22Dec2024 17:04:47.990] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darielo_XD lost connection: Disconnected
 [22Dec2024 17:04:47.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD left the game
+[22Dec2024 17:17:07.601] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: oscarbigw[/127.167.240.13:56861] logged in with entity id 36297 at (1391.0312963328772, 20.49520087700591, 5506.466680289334)
+[22Dec2024 17:17:07.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw joined the game
+[22Dec2024 17:17:08.128] [Server thread/INFO] [ping-wheel/]: Channel update: oscarbigw -> default
