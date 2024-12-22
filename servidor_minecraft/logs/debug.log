@@ -6314,3 +6314,145 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [22Dec2024 06:17:14.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Teleported Darielo_XD to polloxsolo]
 [22Dec2024 06:17:22.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Dec2024 06:17:22.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 06:17:32.731] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 06:17:33.081] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 06:17:33.380] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 06:17:33.656] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 06:17:33.960] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 06:17:43.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[22Dec2024 06:17:53.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo died
+[22Dec2024 06:18:02.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 06:18:04.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo died
+[22Dec2024 06:18:06.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 06:18:10.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[22Dec2024 06:18:14.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 06:18:14.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[22Dec2024 06:18:34.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 06:18:36.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 06:18:36.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[22Dec2024 06:18:51.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo died
+[22Dec2024 06:19:13.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 06:19:15.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 06:19:16.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo died
+[22Dec2024 06:19:23.035] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 06:19:23.380] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 06:19:23.683] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 06:19:27.380] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 06:19:27.730] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 06:19:28.030] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 06:19:31.061] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=203, y=48, z=159}
+[22Dec2024 06:19:40.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 06:19:45.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[22Dec2024 06:20:03.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 06:20:05.609] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 06:20:05.985] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 06:20:06.306] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 06:20:06.647] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 06:20:08.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo died
+[22Dec2024 06:20:11.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[22Dec2024 06:20:34.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 06:20:37.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 06:20:38.431] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 06:20:38.731] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 06:20:39.064] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 06:20:40.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[22Dec2024 06:20:56.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 06:21:32.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw was slain by Zombie
+[22Dec2024 06:21:37.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 06:21:44.284] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 06:21:44.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD went up in flames
+[22Dec2024 06:21:45.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Removed every effect from oscarbigw]
+[22Dec2024 06:21:47.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw died
+[22Dec2024 06:21:51.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 06:21:52.218] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 06:21:52.880] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 06:21:53.180] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 06:21:53.495] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 06:21:53.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Removed every effect from oscarbigw]
+[22Dec2024 06:21:53.780] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 06:21:55.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[22Dec2024 06:21:59.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo died
+[22Dec2024 06:22:22.585] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 06:22:22.590] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 06:22:37.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 06:22:41.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[22Dec2024 06:22:43.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 06:22:47.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo died
+[22Dec2024 06:23:00.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 06:23:03.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo died
+[22Dec2024 06:23:12.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 06:23:24.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[22Dec2024 06:23:49.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw was shot by Skeleton
+[22Dec2024 06:23:51.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 06:23:54.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[22Dec2024 06:23:55.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 06:23:55.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw was slain by Zombie
+[22Dec2024 06:24:00.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Set own game mode to Creative Mode]
+[22Dec2024 06:24:01.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 06:24:30.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Set own game mode to Survival Mode]
+[22Dec2024 06:24:57.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Gave 15 [Steak] to oscarbigw]
+[22Dec2024 06:25:02.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Teleported Darielo_XD to polloxsolo]
+[22Dec2024 06:25:03.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.not_rescued_in_time
+[22Dec2024 06:25:06.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 06:25:10.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Teleported polloxsolo to Darielo_XD]
+[22Dec2024 06:25:11.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[22Dec2024 06:25:17.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo was slain by Zombie
+[22Dec2024 06:25:51.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 06:25:56.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[22Dec2024 06:26:03.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw was slain by Zombie
+[22Dec2024 06:26:06.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.not_rescued_in_time
+[22Dec2024 06:26:09.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 06:26:11.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw was slain by Zombie
+[22Dec2024 06:26:14.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 06:26:26.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 06:27:17.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo died
+[22Dec2024 06:27:22.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 06:27:22.631] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 06:27:22.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Teleported polloxsolo to Darielo_XD]
+[22Dec2024 06:27:28.132] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 06:27:28.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[22Dec2024 06:27:34.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo died
+[22Dec2024 06:28:28.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 06:28:34.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD has made the advancement [Cover Me with Diamonds]
+[22Dec2024 06:28:41.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Teleported polloxsolo to Darielo_XD]
+[22Dec2024 06:29:31.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo died
+[22Dec2024 06:29:37.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[22Dec2024 06:31:18.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 06:31:19.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[22Dec2024 06:31:24.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 06:31:33.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.not_rescued_in_time
+[22Dec2024 06:31:46.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Teleported polloxsolo to Darielo_XD]
+[22Dec2024 06:32:22.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 06:32:22.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 06:32:40.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo has made the advancement [Shining slimy moon~]
+[22Dec2024 06:32:40.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo has made the advancement [Special Talent]
+[22Dec2024 06:33:35.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu]]
+[22Dec2024 06:33:44.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu] (set value to 3)]
+[22Dec2024 06:34:08.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu] (set value to 10)]
+[22Dec2024 06:34:18.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu] (set value to 3000)]
+[22Dec2024 06:34:23.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Gave 1 [Trial Key] to oscarbigw]
+[22Dec2024 06:34:41.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu] (set value to 4)]
+[22Dec2024 06:34:48.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu] (set value to 53)]
+[22Dec2024 06:34:58.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu] (set value to 10001)]
+[22Dec2024 06:35:12.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu] (set value to 10001)]
+[22Dec2024 06:35:16.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu] (set value to 10001)]
+[22Dec2024 06:35:18.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw was shot by Skeleton
+[22Dec2024 06:35:25.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 06:35:26.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu] (set value to 20011)]
+[22Dec2024 06:35:31.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu] (set value to 20012)]
+[22Dec2024 06:35:36.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Removed every effect from oscarbigw]
+[22Dec2024 06:35:39.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu] (set value to 10002)]
+[22Dec2024 06:35:42.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu] (set value to 10004)]
+[22Dec2024 06:35:45.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu] (set value to 10005)]
+[22Dec2024 06:35:51.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu] (set value to 10006)]
+[22Dec2024 06:35:56.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu] (set value to 10003)]
+[22Dec2024 06:36:01.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu] (set value to 20015)]
+[22Dec2024 06:36:04.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu] (set value to 10003)]
+[22Dec2024 06:36:16.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu] (set value to 10007)]
+[22Dec2024 06:36:22.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu] (set value to 10008)]
+[22Dec2024 06:36:25.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu] (set value to 10008)]
+[22Dec2024 06:37:03.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu] (set value to 10001)]
+[22Dec2024 06:37:04.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polloxsolo: Triggered [svm_ep.menu] (set value to 10001)]
+[22Dec2024 06:37:22.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 06:37:22.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 06:37:45.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Set own game mode to Creative Mode]

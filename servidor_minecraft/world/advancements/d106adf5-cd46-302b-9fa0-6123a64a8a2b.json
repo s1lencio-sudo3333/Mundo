@@ -52,6 +52,7 @@
       "minecraft:snowy_taiga": "2024-12-21 06:41:05 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-21 19:31:22 +0000",
       "minecraft:frozen_river": "2024-12-21 06:43:06 +0000",
+      "minecraft:windswept_forest": "2024-12-22 06:28:53 +0000",
       "minecraft:ocean": "2024-12-22 04:03:32 +0000",
       "minecraft:jungle": "2024-12-22 04:01:24 +0000",
       "minecraft:grove": "2024-12-21 18:51:47 +0000",
@@ -427,6 +428,7 @@
       "cooked_porkchop": "2024-12-22 04:07:19 +0000",
       "apple": "2024-12-22 04:23:32 +0000",
       "bread": "2024-12-21 06:43:54 +0000",
+      "golden_apple": "2024-12-22 06:35:39 +0000",
       "rotten_flesh": "2024-12-21 18:58:57 +0000",
       "cooked_mutton": "2024-12-21 18:55:14 +0000",
       "sweet_berries": "2024-12-21 19:00:15 +0000",
@@ -1053,6 +1055,7 @@
       "minecraft:cave_spider": "2024-12-21 19:33:57 +0000",
       "minecraft:skeleton": "2024-12-21 17:33:55 +0000",
       "minecraft:zombified_piglin": "2024-12-21 17:42:54 +0000",
+      "minecraft:endermite": "2024-12-22 06:30:43 +0000",
       "minecraft:spider": "2024-12-21 19:36:03 +0000",
       "minecraft:zombie": "2024-12-21 17:26:43 +0000",
       "minecraft:creeper": "2024-12-21 17:39:34 +0000",
@@ -2705,6 +2708,30 @@
     },
     "done": true
   },
+  "advancednetherite:recipes/misc/lodestone": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2024-12-22 06:23:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-22 06:26:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-22 06:26:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-22 06:26:03 +0000"
+    },
+    "done": true
+  },
   "svm_ep:unlocked_ability/void/3": {
     "criteria": {
       "requirement": "2024-12-22 05:56:47 +0000"
@@ -2717,9 +2744,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-22 06:26:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-22 05:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-22 06:26:03 +0000"
     },
     "done": true
   },
@@ -2729,9 +2768,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-22 06:25:43 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/bookshelf_smithing": {
     "criteria": {
       "has_bookshelf": "2024-12-22 06:03:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-22 06:26:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-22 06:25:43 +0000"
     },
     "done": true
   },
@@ -2753,9 +2810,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-22 06:26:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-22 06:04:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-22 06:23:24 +0000"
     },
     "done": true
   },
@@ -2765,9 +2834,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-22 06:26:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2024-12-22 06:26:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-22 06:26:03 +0000"
+    },
+    "done": true
+  },
   "toughasnails:recipes/combat/wool_boots": {
     "criteria": {
       "has_wool": "2024-12-22 05:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-22 06:23:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-22 06:26:03 +0000"
     },
     "done": true
   },
@@ -2789,9 +2888,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-22 06:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_cut_copper": "2024-12-22 06:26:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2024-12-22 06:26:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-22 06:23:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-22 06:04:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-22 06:26:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-22 06:23:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-22 06:26:03 +0000"
     },
     "done": true
   },
@@ -2801,9 +2942,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-22 06:26:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-22 06:25:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-22 06:04:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-22 06:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-22 06:26:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_chiseled_copper_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2024-12-22 06:26:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-22 06:26:03 +0000"
     },
     "done": true
   },
@@ -2816,6 +2993,18 @@
   "toughasnails:recipes/combat/wool_chestplate": {
     "criteria": {
       "has_wool": "2024-12-22 05:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-22 06:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_cut_copper": "2024-12-22 06:26:11 +0000"
     },
     "done": true
   },
