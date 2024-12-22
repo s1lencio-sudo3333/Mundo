@@ -37,18 +37,24 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:frozen_ocean": "2024-12-21 20:46:31 +0000",
+      "minecraft:cold_ocean": "2024-12-22 04:43:58 +0000",
       "minecraft:beach": "2024-12-22 04:25:53 +0000",
-      "minecraft:frozen_river": "2024-12-21 20:46:03 +0000",
       "minecraft:forest": "2024-12-22 04:31:51 +0000",
       "minecraft:taiga": "2024-12-21 20:51:17 +0000",
-      "minecraft:deep_frozen_ocean": "2024-12-21 20:48:07 +0000",
-      "minecraft:grove": "2024-12-21 20:49:08 +0000",
-      "minecraft:meadow": "2024-12-22 04:32:31 +0000",
+      "minecraft:deep_ocean": "2024-12-22 04:44:52 +0000",
+      "minecraft:river": "2024-12-22 05:01:10 +0000",
       "minecraft:stony_shore": "2024-12-21 20:48:04 +0000",
       "minecraft:snowy_plains": "2024-12-21 20:44:01 +0000",
       "minecraft:snowy_taiga": "2024-12-21 20:43:44 +0000",
-      "minecraft:snowy_beach": "2024-12-21 20:46:07 +0000"
+      "minecraft:deep_cold_ocean": "2024-12-22 04:45:29 +0000",
+      "minecraft:frozen_ocean": "2024-12-21 20:46:31 +0000",
+      "minecraft:frozen_river": "2024-12-21 20:46:03 +0000",
+      "minecraft:deep_frozen_ocean": "2024-12-21 20:48:07 +0000",
+      "minecraft:ocean": "2024-12-22 04:44:30 +0000",
+      "minecraft:grove": "2024-12-21 20:49:08 +0000",
+      "minecraft:meadow": "2024-12-22 04:32:31 +0000",
+      "minecraft:snowy_beach": "2024-12-21 20:46:07 +0000",
+      "minecraft:plains": "2024-12-22 04:46:51 +0000"
     },
     "done": false
   },
@@ -559,7 +565,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2024-12-22 04:59:37 +0000",
       "rotten_flesh": "2024-12-21 20:48:21 +0000",
+      "cooked_mutton": "2024-12-22 04:50:48 +0000",
       "sweet_berries": "2024-12-21 20:52:22 +0000"
     },
     "done": false
@@ -1425,6 +1433,474 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2024-12-22 04:39:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-22 04:43:23 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/enchancement/luck_enhancement": {
+    "criteria": {
+      "has_emerald": "2024-12-22 04:43:23 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2024-12-22 04:43:23 +0000"
+    },
+    "done": true
+  },
+  "spellbound_weapons:recipe/windsweeper": {
+    "criteria": {
+      "2": "2024-12-22 04:43:23 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / c:gems/emerald]": "2024-12-22 04:43:23 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/enchancement/loot_enhancement": {
+    "criteria": {
+      "has_emerald": "2024-12-22 04:43:23 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/enchancement/sheep_enhancement": {
+    "criteria": {
+      "has_shears": "2024-12-22 04:43:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-22 04:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-22 04:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-22 04:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-22 04:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-22 04:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-22 04:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-22 04:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-22 04:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-12-22 04:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-22 04:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-22 04:46:58 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/tools/empty_leather_canteen": {
+    "criteria": {
+      "has_leather": "2024-12-22 04:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-22 04:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-22 04:46:58 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/horse": {
+    "criteria": {
+      "has_leather": "2024-12-22 04:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-12-22 04:46:58 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_leather": "2024-12-22 04:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-22 04:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-22 04:46:58 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/filter/no_meat_filter": {
+    "criteria": {
+      "has_beef": "2024-12-22 04:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-12-22 04:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-12-22 04:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-22 04:47:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-22 04:47:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-22 04:47:04 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2024-12-22 04:47:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-12-22 04:49:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-12-22 04:49:14 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
+    "criteria": {
+      "has_black_wool": "2024-12-22 04:49:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-12-22 04:49:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2024-12-22 04:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2024-12-22 04:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2024-12-22 04:49:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/brown_sleeping_bag": {
+    "criteria": {
+      "has_brown_wool": "2024-12-22 04:49:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2024-12-22 04:51:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-22 04:51:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-22 04:51:21 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/combat/bomb": {
+    "criteria": {
+      "has_gunpowder": "2024-12-22 04:51:21 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/food/apple_juice": {
+    "criteria": {
+      "has_apple": "2024-12-22 04:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-22 04:59:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 04:57:12 +0000"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/tools/calendar": {
+    "criteria": {
+      "has_clock": "2024-12-22 05:01:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 04:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 04:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2024-12-22 04:58:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 04:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-12-22 04:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 04:57:12 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm_template/tier0_mob_farm_template": {
+    "criteria": {
+      "has_glass": "2024-12-22 04:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2024-12-22 04:59:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2024-12-22 04:58:18 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm_template/tier1_mob_farm_template": {
+    "criteria": {
+      "has_glass": "2024-12-22 04:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 04:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 04:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 04:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 04:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-22 05:01:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-22 05:01:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2024-12-22 04:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 04:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 04:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 04:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2024-12-22 04:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 04:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-12-22 04:59:01 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm_template/tier3_mob_farm_template": {
+    "criteria": {
+      "has_glass": "2024-12-22 04:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 04:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 04:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 04:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-22 04:56:10 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2024-12-22 05:01:53 +0000"
     },
     "done": true
   },

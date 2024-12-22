@@ -39,6 +39,7 @@
     "criteria": {
       "minecraft:cold_ocean": "2024-12-22 04:04:09 +0000",
       "minecraft:beach": "2024-12-22 04:17:47 +0000",
+      "minecraft:dark_forest": "2024-12-22 04:49:49 +0000",
       "minecraft:forest": "2024-12-22 04:23:14 +0000",
       "minecraft:taiga": "2024-12-21 18:52:36 +0000",
       "minecraft:sparse_jungle": "2024-12-21 19:31:03 +0000",
@@ -2017,9 +2018,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-22 04:59:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-22 04:59:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2024-12-22 04:39:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 05:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 05:01:48 +0000"
     },
     "done": true
   },
@@ -2035,15 +2060,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-22 04:59:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 05:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-22 04:59:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 05:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-22 04:50:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-22 04:59:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-12-22 04:59:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2024-12-22 04:39:23 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-22 04:59:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 05:01:48 +0000"
+    },
+    "done": true
+  },
   "svm_ep:flora_visited_biome/forest": {
     "criteria": {
       "requirement": "2024-12-22 04:23:14 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm_template/tier0_mob_farm_template": {
+    "criteria": {
+      "has_hopper": "2024-12-22 04:59:22 +0000"
     },
     "done": true
   },
@@ -2059,6 +2144,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-22 04:59:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2024-12-22 04:39:23 +0000"
@@ -2071,9 +2162,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 05:01:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2024-12-22 04:25:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 05:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 05:01:48 +0000"
     },
     "done": true
   },
@@ -2104,6 +2213,18 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2024-12-22 04:12:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-22 04:59:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 05:01:48 +0000"
     },
     "done": true
   },
@@ -2173,9 +2294,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2024-12-22 05:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 05:01:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2024-12-22 04:22:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 05:01:48 +0000"
     },
     "done": true
   },
@@ -2191,6 +2330,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-22 04:59:35 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2024-12-22 04:54:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2024-12-22 03:58:43 +0000"
@@ -2203,9 +2354,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 05:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-22 04:59:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-12-22 04:12:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2024-12-22 05:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 05:01:48 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_oak": "2024-12-22 04:54:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-22 04:59:35 +0000"
     },
     "done": true
   },
@@ -2239,9 +2426,21 @@
     },
     "done": true
   },
+  "easy_mob_farm:recipes/mob_farm_template/tier3_mob_farm_template": {
+    "criteria": {
+      "has_hopper": "2024-12-22 04:59:22 +0000"
+    },
+    "done": true
+  },
   "easy_mob_farm:recipes/upgrade/enchancement/sword_enhancement": {
     "criteria": {
       "has_iron_sword": "2024-12-22 04:12:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 05:01:48 +0000"
     },
     "done": true
   },
@@ -2269,9 +2468,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-22 04:59:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 05:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-22 05:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-22 04:59:35 +0000"
+    },
+    "done": true
+  },
+  "svm_ep:flora_visited_biome/dark_oak": {
+    "criteria": {
+      "requirement": "2024-12-22 04:49:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2024-12-22 03:58:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-22 04:59:35 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/enchancement/honey_harvester_frame_enhancement": {
+    "criteria": {
+      "has_hopper": "2024-12-22 04:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-22 04:59:35 +0000"
     },
     "done": true
   },
@@ -2281,9 +2528,27 @@
     },
     "done": true
   },
+  "easy_mob_farm:recipes/upgrade/enchancement/egg_collector_enhancement": {
+    "criteria": {
+      "has_hopper": "2024-12-22 04:59:22 +0000"
+    },
+    "done": true
+  },
   "svm_ep:flora_visited_biome/savanna": {
     "criteria": {
       "requirement": "2024-12-22 04:19:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-22 04:59:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-22 04:59:35 +0000"
     },
     "done": true
   },
@@ -2296,6 +2561,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2024-12-22 03:58:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-22 04:50:25 +0000"
     },
     "done": true
   },
