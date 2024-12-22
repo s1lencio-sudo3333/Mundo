@@ -6456,3 +6456,39 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [22Dec2024 06:37:22.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Dec2024 06:37:22.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [22Dec2024 06:37:45.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Set own game mode to Creative Mode]
+[22Dec2024 06:38:01.754] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 06:38:03.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD went up in flames
+[22Dec2024 06:38:06.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: Set own game mode to Survival Mode]
+[22Dec2024 06:38:17.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[22Dec2024 06:38:17.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo was slain by Zombie using [White Katana]
+[22Dec2024 06:38:32.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 06:38:43.587] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 06:38:43.881] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 06:38:44.181] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 06:38:44.433] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 06:39:47.181] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 06:39:47.830] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 06:39:48.130] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 06:39:48.481] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 06:39:49.331] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 06:39:49.633] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 06:39:51.381] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 06:40:22.430] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 06:40:23.531] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 06:40:23.880] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 06:40:24.550] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 06:42:22.667] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 06:42:22.672] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 06:42:56.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darielo_XD: Triggered [svm_ep.menu]]
+[22Dec2024 06:42:59.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darielo_XD: Triggered [svm_ep.menu] (set value to 10)]
+[22Dec2024 06:43:00.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darielo_XD: Triggered [svm_ep.menu] (set value to 4)]
+[22Dec2024 06:43:06.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darielo_XD: Triggered [svm_ep.menu] (set value to 5)]
+[22Dec2024 06:43:10.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darielo_XD: Triggered [svm_ep.menu] (set value to 4)]
+[22Dec2024 06:43:10.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darielo_XD: Triggered [svm_ep.menu] (set value to 4)]
+[22Dec2024 06:43:11.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darielo_XD: Triggered [svm_ep.menu] (set value to 5)]
+[22Dec2024 06:43:17.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[22Dec2024 06:44:03.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD died
+[22Dec2024 06:44:12.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [oscarbigw: commands.revive.success.single]
+[22Dec2024 06:44:14.341] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 minecraft:diamond_sword because there is no smelting recipe
+[22Dec2024 06:47:22.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 06:47:22.586] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
